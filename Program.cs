@@ -8,28 +8,6 @@ namespace BolidSoap
 {
   internal class Program
   {
-    static async Task GetItemsStates()
-    {
-      //{
-      //  "ItemType": "LOOP",
-      //  "ItemId": 275,
-      //  "Rights": 0,
-      //  "State": 250,
-      //  "ComputerId": -1,
-      //  "OwnerId": -1,
-      //  "Timestamp": "2024-06-04T12:37:51.39+03:00"
-      //}
-      //var items_req = new List<TItem>();
-      //items_req.Add(new TItem()
-      //{
-      //  ItemType = "SECTIONGROUP",
-      //  ItemId = 1
-      //});
-      //var items_res2 = await m_client.GetItemsStatesAsync(m_token, items_req?.ToArray());
-
-    }
-
-
     static async Task  Main(string[] args)
     {
       Console.WriteLine("Hello, Orion!");
@@ -37,11 +15,35 @@ namespace BolidSoap
       try
       {
         var poller = new OrionPoller(
-                "http://10.1.50.29:8090/soap/IOrionPro",
-                "administrator",
-                "1");
+                Environment.GetEnvironmentVariable("ORION_ADDR"),
+                Environment.GetEnvironmentVariable("ORION_USER"),
+                Environment.GetEnvironmentVariable("ORION_PASSWORD"));
 
-        await poller.Init();
+        while(!await poller.Init())
+        {
+          Console.WriteLine("Init failed");
+          await Task.Delay(1000);
+        }
+
+        while (true)
+        {
+          try
+          {
+            bool retVal = await poller.Poll();
+            if (retVal)
+            {
+              Console.Clear();
+              poller.PrintStates();
+            }
+          }
+          catch (Exception ex)
+          {
+            Console.WriteLine(ex.ToString());
+          }
+          
+          await Task.Delay(5000);
+        }
+        Console.WriteLine("Init OK");
       }
       catch (Exception ex)
       {

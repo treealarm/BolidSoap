@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BolidSoap": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ORION_ADDR": "http://10.1.50.29:8090/soap/IOrionPro",
+        "ORION_USER": "administrator",
+        "ORION_PASSWORD": "1"
+      }
+    }
+  }
+}

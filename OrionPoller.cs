@@ -29,6 +29,9 @@ namespace BolidSoap
     private ConcurrentDictionary<string, TComputer> _computers = new ConcurrentDictionary<string, TComputer>();
     private ConcurrentDictionary<string, TDevice> _devices = new ConcurrentDictionary<string, TDevice>();
     private ConcurrentDictionary<string, TDeviceItem> _device_items = new ConcurrentDictionary<string, TDeviceItem>();
+    private ConcurrentDictionary<string, TSection> _section_items = new ConcurrentDictionary<string, TSection>();
+    private ConcurrentDictionary<string, TSectionsGroup> _sections_group_items = new ConcurrentDictionary<string, TSectionsGroup>();
+    private ConcurrentDictionary<string, TItem> _item_states = new ConcurrentDictionary<string, TItem>();
     public OrionPoller(string remoteAddress, string user, string password)
     {
       _remoteAddress = remoteAddress;
@@ -84,6 +87,10 @@ namespace BolidSoap
       retVal = retVal && await GetDevices();
       retVal = retVal && await GetDeviceItems();
 
+      retVal = retVal && await GetSections();
+      retVal = retVal && await GetSectionsGroups();
+
+      
       IsInited = retVal;
 
       return retVal;
@@ -101,18 +108,56 @@ namespace BolidSoap
 
       return result.@return != null && result.@return.Success;
     }
-    async Task GetSections()
+    async Task<bool> GetSections()
     {
-      var response = await _client!.GetSectionsAsync(false, 0, 100, _token);
-      var items = response.@return.OperationResult;
-      WriteJson(items);
+      int offset = 0;
+      int count = 1000;
+      var result = await _client!.GetSectionsAsync(false, offset, count, _token);
+      _section_items.Clear();
+
+      while (result.@return != null && result.@return.Success)
+      {
+        var items = result.@return.OperationResult;
+
+        if (items.Length == 0) 
+        { 
+          break; 
+        }
+        foreach (var item in items)
+        {
+          _section_items.AddOrUpdate($"{item.Id}", item, (key, oldValue) => item);
+        }
+        result = await _client!.GetSectionsAsync(false, offset, count, _token);
+        offset += count;
+      }
+      
+      return result.@return != null && result.@return.Success;
     }
 
-    async Task GetSectionsGroups()
+    async Task<bool> GetSectionsGroups()
     {
-      var response = await _client!.GetSectionsGroupsAsync(false, 0, 100, _token);
-      var items = response.@return.OperationResult;
-      WriteJson(items);
+      int offset = 0;
+      int count = 1000;
+      var result = await _client!.GetSectionsGroupsAsync(false, offset, count, _token);
+      _sections_group_items.Clear();
+
+      while (result.@return != null && result.@return.Success)
+      {
+        var items = result.@return.OperationResult;
+
+        if (items.Length == 0)
+        {
+          break;
+        }
+        foreach (var item in items)
+        {
+          _sections_group_items.AddOrUpdate($"{item.Id}", item, (key, oldValue) => item);
+        }
+        result = await _client!.GetSectionsGroupsAsync(false, offset, count, _token);
+        offset += count;
+      }
+
+      return result.@return != null && result.@return.Success;
     }
     async Task<bool> GetComputers()
     {
@@ -174,6 +219,95 @@ namespace BolidSoap
         });
       }
       return true;
+    }
+
+    List<TItem> ConvertToItems(List<TDeviceItem> tItems)
+    {
+      List<TItem> items = new List<TItem>();
+
+      foreach(var item in tItems)
+      {
+        items.Add(new TItem()
+        {
+          ItemType = item.ItemType,
+          ItemId = item.Id
+        });
+      }
+      return items;
+    }
+    List<TItem> ConvertToItems(List<TSection> tItems)
+    {
+      List<TItem> items = new List<TItem>();
+
+      foreach (var item in tItems)
+      {
+        items.Add(new TItem()
+        {
+          ItemType = "SECTION",
+          ItemId = item.Id
+        });
+      }
+      return items;
+    }
+    List<TItem> ConvertToItems(List<TSectionsGroup> tItems)
+    {
+      List<TItem> items = new List<TItem>();
+
+      foreach (var item in tItems)
+      {
+        items.Add(new TItem()
+        {
+          ItemType = "SECTIONGROUP",
+          ItemId = item.Id
+        });
+      }
+      return items;
+    }
+    async Task<bool> GetItemsStates(List<TItem> items_req)
+    {
+      //{
+      //  "ItemType": "LOOP",
+      //  "ItemId": 275,
+      //  "Rights": 0,
+      //  "State": 250,
+      //  "ComputerId": -1,
+      //  "OwnerId": -1,
+      //  "Timestamp": "2024-06-04T12:37:51.39+03:00"
+      //}
+
+      var result = await _client!.GetItemsStatesAsync(_token, items_req?.ToArray());
+
+      if (result.@return != null && result.@return.Success)
+      {
+        var items = result.@return.OperationResult;
+        Parallel.ForEach(items, item =>
+        {
+          _item_states.AddOrUpdate(
+            $"{item.ItemType}{item.ItemId}",
+            item,
+            (key, oldValue) => item);
+        });
+      }
+      return result.@return != null && result.@return.Success;
+    }
+    public async Task<bool> Poll()
+    {
+      var retVal = true;
+      retVal = retVal && await GetItemsStates(ConvertToItems(_device_items.Values.ToList()));
+      retVal = retVal && await GetItemsStates(ConvertToItems(_section_items.Values.ToList()));
+      retVal = retVal && await GetItemsStates(ConvertToItems(_sections_group_items.Values.ToList()));
+
+      return retVal;
+    }
+
+    public void PrintStates()
+    {
+      var states = _item_states.Values.ToList();
+
+      foreach (var item in states)
+      {
+        Console.WriteLine($"{item.ItemType}{item.ItemId} = {item.State}");
+      }
     }
   }
 }
