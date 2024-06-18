@@ -78,8 +78,6 @@ namespace BolidSoap
 
       _client = new OrionProClient(new OrionProClient.EndpointConfiguration(), _remoteAddress);
       _client.Endpoint.EndpointBehaviors.Add(new InspectorBehavior());
-      var md5_pass = compute_md5(_password);
-      var result = await _client.GetLoginTokenAsync(_user, md5_pass);
 
       bool retVal = await CreateToken();
 
@@ -100,22 +98,25 @@ namespace BolidSoap
     {
       var md5_pass = compute_md5(_password);
       var result = await _client!.GetLoginTokenAsync(_user, md5_pass);
+      PrintStatus(result?.@return?.ServiceError);
 
-      if (result.@return != null && result.@return.Success)
+      if (result?.@return != null && result.@return.Success)
       {
         _token = result.@return.OperationResult;
       }        
 
-      return result.@return != null && result.@return.Success;
+      return result?.@return != null && result.@return.Success;
     }
     async Task<bool> GetSections()
     {
       int offset = 0;
       int count = 1000;
       var result = await _client!.GetSectionsAsync(false, offset, count, _token);
+      PrintStatus(result?.@return?.ServiceError);
+
       _section_items.Clear();
 
-      while (result.@return != null && result.@return.Success)
+      while (result?.@return != null && result.@return.Success)
       {
         var items = result.@return.OperationResult;
 
@@ -131,7 +132,7 @@ namespace BolidSoap
         offset += count;
       }
       
-      return result.@return != null && result.@return.Success;
+      return result?.@return != null && result.@return.Success;
     }
 
     async Task<bool> GetSectionsGroups()
@@ -139,9 +140,11 @@ namespace BolidSoap
       int offset = 0;
       int count = 1000;
       var result = await _client!.GetSectionsGroupsAsync(false, offset, count, _token);
+      PrintStatus(result?.@return?.ServiceError);
+
       _sections_group_items.Clear();
 
-      while (result.@return != null && result.@return.Success)
+      while (result?.@return != null && result.@return.Success)
       {
         var items = result.@return.OperationResult;
 
@@ -157,13 +160,22 @@ namespace BolidSoap
         offset += count;
       }
 
-      return result.@return != null && result.@return.Success;
+      return result?.@return != null && result.@return.Success;
+    }
+    private void PrintStatus(TServiceError? error)
+    {
+      if (error == null)
+      {
+        return;
+      }
+      Console.WriteLine($"{error.Description}[{error.ErrorCode}]");
     }
     async Task<bool> GetComputers()
     {
       var result = await _client!.GetComputersAsync(_token);
+      PrintStatus(result?.@return?.ServiceError);
 
-      if (result.@return != null && result.@return.Success)
+      if (result?.@return != null && result.@return.Success)
       {
         _computers.Clear();
 
@@ -180,8 +192,9 @@ namespace BolidSoap
     async Task<bool> GetDevices()
     {
       var result = await _client!.GetDevicesAsync(_token);
+      PrintStatus(result?.@return?.ServiceError);
 
-      if (result.@return.Success)
+      if (result?.@return != null && result.@return.Success)
       {
         _devices.Clear();
 
@@ -193,7 +206,7 @@ namespace BolidSoap
         }
       }
 
-      return result.@return != null && result.@return.Success;
+      return result?.@return != null && result.@return.Success;
     }
 
     async Task<bool> GetDeviceItems()
@@ -206,8 +219,9 @@ namespace BolidSoap
       foreach (var device in devices)
       {
         var result = await _client!.GetDeviceItemsAsync(device.Id, _token);
+        PrintStatus(result?.@return?.ServiceError);
 
-        if (result.@return == null || !result.@return.Success)
+        if (result?.@return == null || !result.@return.Success)
         {
           return false;      
         }
@@ -276,8 +290,9 @@ namespace BolidSoap
       //}
 
       var result = await _client!.GetItemsStatesAsync(_token, items_req?.ToArray());
+      PrintStatus(result?.@return?.ServiceError);
 
-      if (result.@return != null && result.@return.Success)
+      if (result?.@return != null && result.@return.Success)
       {
         var items = result.@return.OperationResult;
         Parallel.ForEach(items, item =>
@@ -288,7 +303,7 @@ namespace BolidSoap
             (key, oldValue) => item);
         });
       }
-      return result.@return != null && result.@return.Success;
+      return result?.@return != null && result.@return.Success;
     }
     public async Task<bool> Poll()
     {
