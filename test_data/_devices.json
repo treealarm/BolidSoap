@@ -1,0 +1,57 @@
+{
+  "2": {
+    "Id": 2,
+    "Address": 0,
+    "DevType": 57,
+    "Name": "ППКУП Сириус",
+    "ComPortId": 0,
+    "PKUId": 1,
+    "HwId": 0,
+    "IpAddress": "192.168.127.254",
+    "ComputerId": 1
+  },
+  "1": {
+    "Id": 1,
+    "Address": 1,
+    "DevType": 51,
+    "Name": "Драйвер Орион 2",
+    "ComPortId": 1,
+    "PKUId": 0,
+    "HwId": 0,
+    "IpAddress": "127.0.0.1",
+    "ComputerId": 1
+  },
+  "5": {
+    "Id": 5,
+    "Address": 3,
+    "DevType": 40,
+    "Name": "С2000-КДЛ-С(3)",
+    "ComPortId": 2,
+    "PKUId": 2,
+    "HwId": 0,
+    "IpAddress": "",
+    "ComputerId": 1
+  },
+  "4": {
+    "Id": 4,
+    "Address": 2,
+    "DevType": 50,
+    "Name": "МИП-24-C исп. 03(2)",
+    "ComPortId": 2,
+    "PKUId": 2,
+    "HwId": 0,
+    "IpAddress": "",
+    "ComputerId": 1
+  },
+  "3": {
+    "Id": 3,
+    "Address": 1,
+    "DevType": 68,
+    "Name": "С2000-КПБ-С(1)",
+    "ComPortId": 2,
+    "PKUId": 2,
+    "HwId": 0,
+    "IpAddress": "",
+    "ComputerId": 1
+  }
+}

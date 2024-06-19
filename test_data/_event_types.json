@@ -1,0 +1,3782 @@
+{
+  "471": {
+    "Id": 471,
+    "CharId": "JO",
+    "Description": "Не поддерживает данную команду",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Не поддерживает данную команду"
+  },
+  "425": {
+    "Id": 425,
+    "CharId": "JO",
+    "Description": "Восстановление основного канала ЛВС",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление основного ЛВС канала"
+  },
+  "439": {
+    "Id": 439,
+    "CharId": "JO",
+    "Description": "Принял дежурство без нарушений",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Принял дежурство без нарушений"
+  },
+  "325": {
+    "Id": 325,
+    "CharId": "",
+    "Description": "Пожарная ЛАМПА",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "339": {
+    "Id": 339,
+    "CharId": "",
+    "Description": "Включить при ВЗЯТИИ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "271": {
+    "Id": 271,
+    "CharId": "",
+    "Description": "Проход (по кнопке)",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "225": {
+    "Id": 225,
+    "CharId": "JO",
+    "Description": "Неустойчивый ответ устройства в ДПЛС",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Неустойчивый ответ адресного устройства в ДПЛС"
+  },
+  "139": {
+    "Id": 139,
+    "CharId": "JO",
+    "Description": "Неудачный пуск ПТ",
+    "Category": "Пуски",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Неудачный запуск пожаротушения"
+  },
+  "29": {
+    "Id": 29,
+    "CharId": "DK",
+    "Description": "Запрет доступа",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Доступ отклонен, допустимый код"
+  },
+  "1801": {
+    "Id": 1801,
+    "CharId": "",
+    "Description": "Восстановление связи по 2-й ветви RS-485",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление связи с прибором по ветви кольцевого интерфейса RS-485"
+  },
+  "8409": {
+    "Id": 8409,
+    "CharId": "v",
+    "Description": "Удаленный запрос на выключение автоматики ПТ",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Выключение автоматики ПТ"
+  },
+  "420": {
+    "Id": 420,
+    "CharId": "JO",
+    "Description": "Восстановление резервного канала",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление резервного RS канала"
+  },
+  "320": {
+    "Id": 320,
+    "CharId": "",
+    "Description": "ПЦН",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "220": {
+    "Id": 220,
+    "CharId": "z",
+    "Description": "Срабатывание СДУ",
+    "Category": "Блокировки пуска",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Срабатывание датчика выхода огнетушащего вещества"
+  },
+  "1205": {
+    "Id": 1205,
+    "CharId": "v",
+    "Description": "Снятие камеры с охраны",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Отключение режима охраны видеокамеры"
+  },
+  "25": {
+    "Id": 25,
+    "CharId": "z",
+    "Description": "Доступ закрыт",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Доступ закрыт для всех"
+  },
+  "8503": {
+    "Id": 8503,
+    "CharId": "",
+    "Description": "Статистика: инициализация завершена",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": "Возможен сбор статистики"
+  },
+  "1752": {
+    "Id": 1752,
+    "CharId": "SL",
+    "Description": "Тестирование ёмкости РИП",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Начало тестирования ёмкости батареи РИП"
+  },
+  "412": {
+    "Id": 412,
+    "CharId": "JO",
+    "Description": "Потерян контакт по основному каналу",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Потеря контакта по основному каналу"
+  },
+  "312": {
+    "Id": 312,
+    "CharId": "",
+    "Description": "ВЫКЛЮЧИТЬ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "212": {
+    "Id": 212,
+    "CharId": "KZ",
+    "Description": "Разряд резервной батареи",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Разряд резервной батареи"
+  },
+  "112": {
+    "Id": 112,
+    "CharId": "OR",
+    "Description": "Вход отключен",
+    "Category": "Изменение состояния выхода",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Отключение контроля состояния входа"
+  },
+  "43": {
+    "Id": 43,
+    "CharId": "FS",
+    "Description": "Предупреждение",
+    "Category": "Неисправности (стандартные)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": true,
+    "Comments": "Повышение фактора пожара выше порога предупреждения"
+  },
+  "1604": {
+    "Id": 1604,
+    "CharId": "SL",
+    "Description": "Подключение к резервному серверу",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Подключение к резервному серверу БД"
+  },
+  "3011": {
+    "Id": 3011,
+    "CharId": "z",
+    "Description": "Вынут не принятый к охране пенал",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "255": {
+    "Id": 255,
+    "CharId": "**",
+    "Description": "Отметка времени",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "155": {
+    "Id": 155,
+    "CharId": "TR",
+    "Description": "Отказ ИУ",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Отказ клапана"
+  },
+  "550": {
+    "Id": 550,
+    "CharId": "z",
+    "Description": "Проход нарушителя",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Проход сотрудника находящегося в черном листе"
+  },
+  "518": {
+    "Id": 518,
+    "CharId": "",
+    "Description": "Возврат параметра в исходное состояние",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Возврат параметра в исходное состояние"
+  },
+  "418": {
+    "Id": 418,
+    "CharId": "JO",
+    "Description": "Восстановление основного канала",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление основного RS канала"
+  },
+  "318": {
+    "Id": 318,
+    "CharId": "",
+    "Description": "Мигать из состояния ВКЛЮЧЕНО НА ВРЕМЯ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "250": {
+    "Id": 250,
+    "CharId": "НЕ",
+    "Description": "Потерян контакт с устройством",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "218": {
+    "Id": 218,
+    "CharId": "",
+    "Description": "Восстановление связи по ветви RS-485",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление связи с прибором по ветви кольцевого интерфейса RS-485"
+  },
+  "150": {
+    "Id": 150,
+    "CharId": "JO",
+    "Description": "Пуск РО",
+    "Category": "Пуски",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Пуск речевого оповещения"
+  },
+  "118": {
+    "Id": 118,
+    "CharId": "z",
+    "Description": "Тревога входной зоны",
+    "Category": "Взятия\\снятия\\нормы",
+    "HexColor": "#000000",
+    "IsAlarm": true,
+    "Comments": ""
+  },
+  "1207": {
+    "Id": 1207,
+    "CharId": "v",
+    "Description": "Запись окончена",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Окончание записи на видеокамеру"
+  },
+  "527": {
+    "Id": 527,
+    "CharId": "",
+    "Description": "Ключ заблокирован централизовано",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Ключ заблокирован через сценарии управления"
+  },
+  "427": {
+    "Id": 427,
+    "CharId": "JO",
+    "Description": "Восстановление резервного канала ЛВС",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановлен резервный ЛВС канал"
+  },
+  "327": {
+    "Id": 327,
+    "CharId": "",
+    "Description": "Включить на время перед взятием",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "27": {
+    "Id": 27,
+    "CharId": "DF",
+    "Description": "Дверь взломана",
+    "Category": "Взятия\\снятия\\нормы",
+    "HexColor": "#000000",
+    "IsAlarm": true,
+    "Comments": "Дверь открыта без предоставления доступа"
+  },
+  "8505": {
+    "Id": 8505,
+    "CharId": "",
+    "Description": "Статистика: опрос включен (временный)",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": "Включен временный опрос статистики"
+  },
+  "227": {
+    "Id": 227,
+    "CharId": "JO",
+    "Description": "Автоматика выхода отключена",
+    "Category": "Взятия\\снятия групп разделов",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Автоматика выхода отключена"
+  },
+  "127": {
+    "Id": 127,
+    "CharId": "JO",
+    "Description": "Восстановление связи с выходом",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Подключение выхода (восстановление реле)"
+  },
+  "30": {
+    "Id": 30,
+    "CharId": "z",
+    "Description": "Восстановление доступа",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Доступ восстановлен"
+  },
+  "193": {
+    "Id": 193,
+    "CharId": "",
+    "Description": "Подключение выходного напряжения",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "РИП включил выходное напряжение"
+  },
+  "8410": {
+    "Id": 8410,
+    "CharId": "v",
+    "Description": "Удаленный запрос на отмену пуска ПТ",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Отмену пуска ПТ"
+  },
+  "1542": {
+    "Id": 1542,
+    "CharId": "z",
+    "Description": "Команда восстановить доступ",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Разблокировать считыватель - команда оператора"
+  },
+  "442": {
+    "Id": 442,
+    "CharId": "JO",
+    "Description": "Смена дежурства отклонена",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Смена дежурства отклонена"
+  },
+  "342": {
+    "Id": 342,
+    "CharId": "",
+    "Description": "Выключить при нарушении технологического Входа",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "242": {
+    "Id": 242,
+    "CharId": "СР",
+    "Description": "Снятие зоны",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "18": {
+    "Id": 18,
+    "CharId": "CI",
+    "Description": "Предъявлен  код принуждения",
+    "Category": "Неисправности\\нормы (ДПЛС)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Предъявлен  код принуждения"
+  },
+  "142": {
+    "Id": 142,
+    "CharId": "SB",
+    "Description": "Автоматика ПТ выключена",
+    "Category": "Взятия\\снятия групп разделов",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Автоматический пуск пожаротушения запрещен"
+  },
+  "1584": {
+    "Id": 1584,
+    "CharId": "z",
+    "Description": "Команда подтвердить доступ",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Централизованное(оператором), подтверждение доступа"
+  },
+  "4": {
+    "Id": 4,
+    "CharId": "BA",
+    "Description": "Помеха",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Возникновение помехи в зоне"
+  },
+  "45": {
+    "Id": 45,
+    "CharId": "FT",
+    "Description": "Обрыв входа",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Неисправность Входа"
+  },
+  "3013": {
+    "Id": 3013,
+    "CharId": "z",
+    "Description": "Сервер ключниц - соединение разорвано",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "199": {
+    "Id": 199,
+    "CharId": "YQ",
+    "Description": "Восстановление источника питания",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Напряжение питания вошло в норму"
+  },
+  "14": {
+    "Id": 14,
+    "CharId": "CI",
+    "Description": "Подбор кода",
+    "Category": "Взятия\\снятия\\нормы",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Несколько раз подряд предъявлен неизвестный ключ, либо введен неверный пароль"
+  },
+  "999": {
+    "Id": 999,
+    "CharId": "z",
+    "Description": "Отредактирован протокол",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Внимание!!!"
+  },
+  "314": {
+    "Id": 314,
+    "CharId": "",
+    "Description": "ВЫКЛЮЧИТЬ НА ВРЕМЯ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "380": {
+    "Id": 380,
+    "CharId": "",
+    "Description": "Передано сообщение",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "На прибор транслировано сообщение"
+  },
+  "214": {
+    "Id": 214,
+    "CharId": "KZ",
+    "Description": "Короткое замыкание входа",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Неисправность Входа"
+  },
+  "280": {
+    "Id": 280,
+    "CharId": "",
+    "Description": "Взятие группы зон",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "114": {
+    "Id": 114,
+    "CharId": "OR",
+    "Description": "Выход отключен",
+    "Category": "Изменение состояния выхода",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Отключение контроля состояния выхода"
+  },
+  "248": {
+    "Id": 248,
+    "CharId": "ПП",
+    "Description": "Превышение полномочий",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "148": {
+    "Id": 148,
+    "CharId": "SU",
+    "Description": "Автоматика ПТ включена",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Автоматический пуск пожаротушения разрешен"
+  },
+  "3050": {
+    "Id": 3050,
+    "CharId": "z",
+    "Description": "Авторизация в ключнице по карте удачна",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1231": {
+    "Id": 1231,
+    "CharId": "v",
+    "Description": "Выключение показа камеры на экране",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Выключение показа камеры на экране"
+  },
+  "157": {
+    "Id": 157,
+    "CharId": "TR",
+    "Description": "Сброс задержки пуска ПТ",
+    "Category": "Пуски",
+    "HexColor": "#FF0000",
+    "IsAlarm": false,
+    "Comments": "Сброс АУП Пультом"
+  },
+  "8507": {
+    "Id": 8507,
+    "CharId": "",
+    "Description": "Статистика: параметр выключен",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": "Параметр исключен из опроса статистики"
+  },
+  "32": {
+    "Id": 32,
+    "CharId": "z",
+    "Description": "Проход",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Зафиксирован проход"
+  },
+  "4000": {
+    "Id": 4000,
+    "CharId": "",
+    "Description": "Запуск ядра опроса",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "3000": {
+    "Id": 3000,
+    "CharId": "z",
+    "Description": "Найдена ключница",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "8412": {
+    "Id": 8412,
+    "CharId": "v",
+    "Description": "Удаленный запрос на отмену пуска выхода",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Отмена пуска выхода."
+  },
+  "206": {
+    "Id": 206,
+    "CharId": "ZA",
+    "Description": "Понижение температуры",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Температура ниже порога"
+  },
+  "1219": {
+    "Id": 1219,
+    "CharId": "v",
+    "Description": "Запрос на выключение детектора движения",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Выключение детектора движения"
+  },
+  "472": {
+    "Id": 472,
+    "CharId": "JO",
+    "Description": "Нет прав(нарушение окна времени)",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Нет прав(нарушение окна времени)"
+  },
+  "272": {
+    "Id": 272,
+    "CharId": "",
+    "Description": "Запрет доступа (по кнопке)",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "172": {
+    "Id": 172,
+    "CharId": "VY",
+    "Description": "Включение принтера",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "5151": {
+    "Id": 5151,
+    "CharId": "",
+    "Description": "Успешное завершение модернизации БД",
+    "Category": "События ПО",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Инициирована команда выполнения модернизации БД из менеджера ЦСО"
+  },
+  "47": {
+    "Id": 47,
+    "CharId": "z",
+    "Description": "Восстановление ДПЛС",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление двухпроводной линии после обрыва или КЗ"
+  },
+  "601": {
+    "Id": 601,
+    "CharId": "z",
+    "Description": "Потерян канал",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "От удаленного клиента не приходит подтверждение"
+  },
+  "401": {
+    "Id": 401,
+    "CharId": "",
+    "Description": "Включение реле",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Реле замкнуто"
+  },
+  "201": {
+    "Id": 201,
+    "CharId": "",
+    "Description": "Восстановление связи по ветви ДПЛС2",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановлен контакт датчиком ДПЛС2 кольцевой ДПЛС"
+  },
+  "101": {
+    "Id": 101,
+    "CharId": "",
+    "Description": "Лето-Ночь",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Переход на алгоритм Лето-Ночь"
+  },
+  "1034": {
+    "Id": 1034,
+    "CharId": "ММ",
+    "Description": "Пароль отклонен",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1215": {
+    "Id": 1215,
+    "CharId": "v",
+    "Description": "Включение детектора движения",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение детектора движения"
+  },
+  "5101": {
+    "Id": 5101,
+    "CharId": "",
+    "Description": "Завершение работы менеджера сервера",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1101": {
+    "Id": 1101,
+    "CharId": "z",
+    "Description": "Закрытие Монитора",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "344": {
+    "Id": 344,
+    "CharId": "",
+    "Description": "АСПТ-А",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "244": {
+    "Id": 244,
+    "CharId": "УС",
+    "Description": "Удаленный запрос на снятие",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "144": {
+    "Id": 144,
+    "CharId": "JO",
+    "Description": "Тушение",
+    "Category": "Пуски",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Выход (санкционированный) огнетушащего вещества"
+  },
+  "99": {
+    "Id": 99,
+    "CharId": "",
+    "Description": "Отказ вентилятора",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Нет перепада давления на вентиляторе"
+  },
+  "3052": {
+    "Id": 3052,
+    "CharId": "z",
+    "Description": "Нарушено расписание для пенала",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1531": {
+    "Id": 1531,
+    "CharId": "z",
+    "Description": "Команда открыть дверь (вход)",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Открыть дверь на вход - команда оператора"
+  },
+  "187": {
+    "Id": 187,
+    "CharId": "z",
+    "Description": "Потеря связи с входом",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Вход отключен (потеря связи с входом)"
+  },
+  "2233": {
+    "Id": 2233,
+    "CharId": "JO",
+    "Description": "ДК пройден",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "ДК пройден"
+  },
+  "1233": {
+    "Id": 1233,
+    "CharId": "v",
+    "Description": "Срабатывание детектора оставленных предметов",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Срабатывание детектора оставленных предметов"
+  },
+  "34": {
+    "Id": 34,
+    "CharId": "DU",
+    "Description": "Идентификатор хозоргана",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Идентификация хозоргана"
+  },
+  "336": {
+    "Id": 336,
+    "CharId": "",
+    "Description": "Выключить на время при нарушении технологического Входа",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1202": {
+    "Id": 1202,
+    "CharId": "v",
+    "Description": "Тревога от детектора движения",
+    "Category": "Взятия\\снятия\\нормы",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Сработал детектор движения видеокамеры"
+  },
+  "1270": {
+    "Id": 1270,
+    "CharId": "v",
+    "Description": "Включение распознавания",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение распознавания"
+  },
+  "8202": {
+    "Id": 8202,
+    "CharId": "",
+    "Description": "Сотрудник распознан",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Сотрудник распознан"
+  },
+  "8199": {
+    "Id": 8199,
+    "CharId": "",
+    "Description": "АН найден в базе данных",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Автомобильный номер найден в базе данных"
+  },
+  "1451": {
+    "Id": 1451,
+    "CharId": "z",
+    "Description": "Резервный ключ 1000",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Установлен резервный ключ на 1000 часов для ядра ОЗ"
+  },
+  "431": {
+    "Id": 431,
+    "CharId": "JO",
+    "Description": "Дистанционный контроль системы НЕ пройден",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Дистанционный контроль системы НЕ пройден"
+  },
+  "3009": {
+    "Id": 3009,
+    "CharId": "z",
+    "Description": "Вставили чужой пенал",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "331": {
+    "Id": 331,
+    "CharId": "",
+    "Description": "Включить на время при снятии",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "71": {
+    "Id": 71,
+    "CharId": "JO",
+    "Description": "Понижение уровня",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Уровень ниже порога"
+  },
+  "231": {
+    "Id": 231,
+    "CharId": "JO",
+    "Description": "Отмена пуска выхода",
+    "Category": "Тревоги",
+    "HexColor": "#FF0000",
+    "IsAlarm": false,
+    "Comments": "Останов задержки пуска"
+  },
+  "131": {
+    "Id": 131,
+    "CharId": "JO",
+    "Description": "Выключение насоса",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Выключение насоса"
+  },
+  "1036": {
+    "Id": 1036,
+    "CharId": "ММ",
+    "Description": "Запуск хранителя экрана",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1401": {
+    "Id": 1401,
+    "CharId": "z",
+    "Description": "Приказ на перегрузку БД",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "474": {
+    "Id": 474,
+    "CharId": "JO",
+    "Description": "Не верное подтверждение пароля",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Не верное подтверждение пароля"
+  },
+  "1103": {
+    "Id": 1103,
+    "CharId": "z",
+    "Description": "Удаленный запрос на пуск ПТ",
+    "Category": "Пуски",
+    "HexColor": "#FF0000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "274": {
+    "Id": 274,
+    "CharId": "",
+    "Description": "Доступ восстановлен (по кнопке)",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "21": {
+    "Id": 21,
+    "CharId": "CI",
+    "Description": "Выключение тестирования",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Вход вышел из режима -  Пожарного тестирования"
+  },
+  "40": {
+    "Id": 40,
+    "CharId": "FJ",
+    "Description": "Пожар 2",
+    "Category": "Тревоги входа",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": ""
+  },
+  "8401": {
+    "Id": 8401,
+    "CharId": "v",
+    "Description": "Удаленный запрос на выключение тестирования",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "выключение тестирования"
+  },
+  "1650": {
+    "Id": 1650,
+    "CharId": "SL",
+    "Description": "Пользовательское событие",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Событие занесенное пользователем"
+  },
+  "1208": {
+    "Id": 1208,
+    "CharId": "v",
+    "Description": "Видеосистема остановлена",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Видеосистема была остановлена"
+  },
+  "1533": {
+    "Id": 1533,
+    "CharId": "z",
+    "Description": "Команда открыть дверь (проход)",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Открыть дверь на проход - команда оператора"
+  },
+  "323": {
+    "Id": 323,
+    "CharId": "",
+    "Description": "Пожарный ПЦН",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "223": {
+    "Id": 223,
+    "CharId": "JO",
+    "Description": "Отметка наряда",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Срабатывание цепи контроля наряда"
+  },
+  "1235": {
+    "Id": 1235,
+    "CharId": "v",
+    "Description": "Тревога от детектора оставленных предметов",
+    "Category": "Взятия\\снятия\\нормы",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Тревога от детектора оставленных предметов"
+  },
+  "123": {
+    "Id": 123,
+    "CharId": "QH",
+    "Description": "Восстановление цепи выхода (реле)",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление цепи нагрузки выхода"
+  },
+  "36": {
+    "Id": 36,
+    "CharId": "z",
+    "Description": "Нарушение технологического входа",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Нарушение технологического входа"
+  },
+  "1204": {
+    "Id": 1204,
+    "CharId": "v",
+    "Description": "Взятие камеры на охрану",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение режима охраны у камеры"
+  },
+  "8502": {
+    "Id": 8502,
+    "CharId": "",
+    "Description": "Статистика: инициализация",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": "Инициализация поддерживаемых команд"
+  },
+  "1272": {
+    "Id": 1272,
+    "CharId": "v",
+    "Description": "Включение аналитического детектора",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение аналитического детектора"
+  },
+  "1751": {
+    "Id": 1751,
+    "CharId": "SL",
+    "Description": "РИП не может выполнить команду",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Нет сети, заряд батареи менее 80%, нет батареи или перегрузка по выходу, нагрузк"
+  },
+  "515": {
+    "Id": 515,
+    "CharId": "",
+    "Description": "Попытка установки параметра",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Команда установки параметра выслана на устройство"
+  },
+  "315": {
+    "Id": 315,
+    "CharId": "",
+    "Description": "Мигать из состояния ВЫКЛЮЧЕНО",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "329": {
+    "Id": 329,
+    "CharId": "",
+    "Description": "Включить на время при взятии",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "215": {
+    "Id": 215,
+    "CharId": "",
+    "Description": "Короткое замыкание ДПЛС",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Короткое замыкание двухпроводной линии"
+  },
+  "229": {
+    "Id": 229,
+    "CharId": "JO",
+    "Description": "Задержка пуска выхода",
+    "Category": "Пуски оборудования",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Задержка пуска"
+  },
+  "115": {
+    "Id": 115,
+    "CharId": "OR",
+    "Description": "Включение адресата",
+    "Category": "Изменение состояния выхода",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Включение контроля адресата и трансляции ему событий"
+  },
+  "161": {
+    "Id": 161,
+    "CharId": "TR",
+    "Description": "Останов задержки пуска ПТ",
+    "Category": "Пуски оборудования",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Останов задержки АУП Пультом"
+  },
+  "73": {
+    "Id": 73,
+    "CharId": "JT",
+    "Description": "Изменение времени",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "410": {
+    "Id": 410,
+    "CharId": "JO",
+    "Description": "Восстановление контакта по основному каналу",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление контакта по основному каналу"
+  },
+  "1403": {
+    "Id": 1403,
+    "CharId": "z",
+    "Description": "Обновление информации из БД",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "310": {
+    "Id": 310,
+    "CharId": "",
+    "Description": "Закрытие ядра",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1105": {
+    "Id": 1105,
+    "CharId": "v",
+    "Description": "Удаленный запрос на включение контроля",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "23": {
+    "Id": 23,
+    "CharId": "CZ",
+    "Description": "Задержка взятия",
+    "Category": "Неисправности\\нормы (корпус)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Идет задержка взятия под охрану"
+  },
+  "110": {
+    "Id": 110,
+    "CharId": "OR",
+    "Description": "Сброс тревоги",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Сброс тревоги\\пожара"
+  },
+  "42": {
+    "Id": 42,
+    "CharId": "",
+    "Description": "Нестандартное оборудование",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Чужой датчик"
+  },
+  "3010": {
+    "Id": 3010,
+    "CharId": "z",
+    "Description": "Вынули чужой пенал",
+    "Category": "Взятия\\снятия\\нормы",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "8403": {
+    "Id": 8403,
+    "CharId": "v",
+    "Description": "Удаленный запрос на остановку РО",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Выключение РО"
+  },
+  "1652": {
+    "Id": 1652,
+    "CharId": "SL",
+    "Description": "Подключение к серверу",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Подключение к серверу БД"
+  },
+  "553": {
+    "Id": 553,
+    "CharId": "z",
+    "Description": "Доступ предоставлен нарушителю",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Доступ предоставлен сотруднику находящегося в черном листе"
+  },
+  "253": {
+    "Id": 253,
+    "CharId": "ВП",
+    "Description": "Включение ПКУ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "153": {
+    "Id": 153,
+    "CharId": "TR",
+    "Description": "ИУ в рабочем состоянии",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Срабатывание клапана"
+  },
+  "8508": {
+    "Id": 8508,
+    "CharId": "",
+    "Description": "Статистика: параметр активирован",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": "Параметр добавлен в опрос статистики"
+  },
+  "602": {
+    "Id": 602,
+    "CharId": "z",
+    "Description": "Канал восстановлен",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "От удаленного клиента приходит подтверждение восстановления канала"
+  },
+  "196": {
+    "Id": 196,
+    "CharId": "",
+    "Description": "Неисправность ЗУ",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Неисправность зарядного устройства (РИП)"
+  },
+  "402": {
+    "Id": 402,
+    "CharId": "",
+    "Description": "Выключение реле",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Реле разомкнуто"
+  },
+  "202": {
+    "Id": 202,
+    "CharId": "YT",
+    "Description": "Неисправность батареи",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Напряжение системной батареи ниже нормы"
+  },
+  "102": {
+    "Id": 102,
+    "CharId": "",
+    "Description": "Зима-День",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Переход на алгоритм Зима-День"
+  },
+  "1206": {
+    "Id": 1206,
+    "CharId": "v",
+    "Description": "Запись начата",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение записи на видеокамеру"
+  },
+  "8504": {
+    "Id": 8504,
+    "CharId": "",
+    "Description": "Статистика: опрос включен (постоянный)",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": "Включен постоянный опрос статистики"
+  },
+  "10": {
+    "Id": 10,
+    "CharId": "BC",
+    "Description": "Восстановление УДП",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Устройство дистанционного пуска переведено в исходное состояние."
+  },
+  "1274": {
+    "Id": 1274,
+    "CharId": "v",
+    "Description": "Сохранение кадра с камеры",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Сохранение кадра с камеры"
+  },
+  "191": {
+    "Id": 191,
+    "CharId": "",
+    "Description": "Восстановление связи по ветви ДПЛС1",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановлен контакт датчикom ДПЛС1 кольцевой ДПЛС"
+  },
+  "1753": {
+    "Id": 1753,
+    "CharId": "SL",
+    "Description": "Завершение тестирования ёмкости РИП",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Завершение тестирования ёмкости батареи РИП"
+  },
+  "345": {
+    "Id": 345,
+    "CharId": "",
+    "Description": "АСПТ-А1",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "245": {
+    "Id": 245,
+    "CharId": "УД",
+    "Description": "Удаленный запрос доступа",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "48": {
+    "Id": 48,
+    "CharId": "SD",
+    "Description": "Сработка 2-го датчика",
+    "Category": "Неисправности (стандартные)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Сработка 2-го извещателя в пожарном ШС"
+  },
+  "145": {
+    "Id": 145,
+    "CharId": "АВ",
+    "Description": "Аварийный пуск ПТ",
+    "Category": "Пуски",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Аварийный пуск пожаротушения"
+  },
+  "159": {
+    "Id": 159,
+    "CharId": "z",
+    "Description": "Задержка пуска РО",
+    "Category": "Пуски оборудования",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Внутренняя зона восстановлена"
+  },
+  "7": {
+    "Id": 7,
+    "CharId": "BC",
+    "Description": "Ручное включение ИУ",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Ручное включение ИУ"
+  },
+  "75": {
+    "Id": 75,
+    "CharId": "JO",
+    "Description": "Аварийное повышение уровня",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Аварийное повышение уровня (переполнение резервуара)"
+  },
+  "1224": {
+    "Id": 1224,
+    "CharId": "v",
+    "Description": "Срабатывание детектора движения",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Срабатывание детектора движения"
+  },
+  "440": {
+    "Id": 440,
+    "CharId": "",
+    "Description": "Изменение состояния",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Изменение состояния"
+  },
+  "340": {
+    "Id": 340,
+    "CharId": "",
+    "Description": "Выключить при ВЗЯТИИ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "140": {
+    "Id": 140,
+    "CharId": "RX",
+    "Description": "Запуск внутреннего теста",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Запуск ручного теста"
+  },
+  "2": {
+    "Id": 2,
+    "CharId": "AT",
+    "Description": "Авария сети",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Отключение сети 220В"
+  },
+  "44": {
+    "Id": 44,
+    "CharId": "FS",
+    "Description": "Внимание! Опасность пожара",
+    "Category": "Неисправности (стандартные)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": true,
+    "Comments": "Зафиксировано нарушение пожарного Входа"
+  },
+  "517": {
+    "Id": 517,
+    "CharId": "",
+    "Description": "Ошибка установки параметра",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Команда установки параметра не исполнена"
+  },
+  "3012": {
+    "Id": 3012,
+    "CharId": "z",
+    "Description": "Сработал режим Отторжение",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "483": {
+    "Id": 483,
+    "CharId": "JO",
+    "Description": "Требует включения",
+    "Category": "Изменение состояния выхода",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Оператору необходимо включить элемент"
+  },
+  "317": {
+    "Id": 317,
+    "CharId": "",
+    "Description": "Мигать из состояния ВЫКЛЮЧЕНО НА ВРЕМЯ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "8405": {
+    "Id": 8405,
+    "CharId": "v",
+    "Description": "Удаленный запрос на сброс задержки пуска ПТ",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Сброс задержки пуска"
+  },
+  "217": {
+    "Id": 217,
+    "CharId": "",
+    "Description": "Потеря связи по ветви RS-485",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Отключение прибора от одной ветви кольцевого интерфейса RS-485"
+  },
+  "117": {
+    "Id": 117,
+    "CharId": "z",
+    "Description": "Восстановление снятого входа",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "62": {
+    "Id": 62,
+    "CharId": "JD",
+    "Description": "Изменение конфигурации",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "332": {
+    "Id": 332,
+    "CharId": "",
+    "Description": "Выключить на время при снятии",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "232": {
+    "Id": 232,
+    "CharId": "JO",
+    "Description": "Увеличение задержки пуска выхода",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "8": {
+    "Id": 8,
+    "CharId": "BC",
+    "Description": "Ручное выключение ИУ",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Ручное выключение ИУ"
+  },
+  "1211": {
+    "Id": 1211,
+    "CharId": "v",
+    "Description": "Удаленный запрос на взятие",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение режима охраны"
+  },
+  "1230": {
+    "Id": 1230,
+    "CharId": "v",
+    "Description": "Показ камеры на экране",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Показ камеры на экране"
+  },
+  "8506": {
+    "Id": 8506,
+    "CharId": "",
+    "Description": "Статистика: опрос выключен",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": "Опрос статистики ВЫКЛЮЧЕН!"
+  },
+  "189": {
+    "Id": 189,
+    "CharId": "",
+    "Description": "Потеря связи по ветви ДПЛС1",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Потерян контакт ДПЛС1 кольцевой ДПЛС"
+  },
+  "31": {
+    "Id": 31,
+    "CharId": "DR",
+    "Description": "Дверь закрыта",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Условия тревоги\\неисправности доступа устранены"
+  },
+  "77": {
+    "Id": 77,
+    "CharId": "JO",
+    "Description": "Аварийное понижение уровня",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Аварийное понижение уровня (утечка в системе)"
+  },
+  "204": {
+    "Id": 204,
+    "CharId": "z",
+    "Description": "Требуется обслуживание",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Превышен порог задымленности дымовой камеры датчика"
+  },
+  "1218": {
+    "Id": 1218,
+    "CharId": "v",
+    "Description": "Запрос на включение детектора движения",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение детектора движения"
+  },
+  "470": {
+    "Id": 470,
+    "CharId": "JO",
+    "Description": "Нет прав(нет полномочий)",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Нет прав(нет полномочий)"
+  },
+  "1543": {
+    "Id": 1543,
+    "CharId": "z",
+    "Description": "Команда открыть свободный доступ",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Открыть доступ - команда оператора"
+  },
+  "438": {
+    "Id": 438,
+    "CharId": "JO",
+    "Description": "Передача дежурства",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Начало операции передачи дежурства"
+  },
+  "370": {
+    "Id": 370,
+    "CharId": "",
+    "Description": "Команда удаленного управления",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "338": {
+    "Id": 338,
+    "CharId": "",
+    "Description": "Выключить при СНЯТИИ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "270": {
+    "Id": 270,
+    "CharId": "",
+    "Description": "Доступ предоставлен (по кнопке)",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "238": {
+    "Id": 238,
+    "CharId": "СМ",
+    "Description": "Смена дежурства",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "138": {
+    "Id": 138,
+    "CharId": "RT",
+    "Description": "Неудачный пуск выхода",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Устаревшее"
+  },
+  "19": {
+    "Id": 19,
+    "CharId": "CI",
+    "Description": "Тест извещателя",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "К ДИП-34А поднесли магнит"
+  },
+  "46": {
+    "Id": 46,
+    "CharId": "z",
+    "Description": "Обрыв ДПЛС",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Обрыв двухпроводной линии"
+  },
+  "247": {
+    "Id": 247,
+    "CharId": "НР",
+    "Description": "Неверная зона",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "3014": {
+    "Id": 3014,
+    "CharId": "z",
+    "Description": "Сервер ключниц остановлен",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "147": {
+    "Id": 147,
+    "CharId": "ST",
+    "Description": "Блокировка пуска ПТ",
+    "Category": "Пожары",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Пуск пожаротушения блокирован"
+  },
+  "8407": {
+    "Id": 8407,
+    "CharId": "v",
+    "Description": "Удаленный запрос на блокировку пуска ПТ",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Блокировка пуска"
+  },
+  "91": {
+    "Id": 91,
+    "CharId": "JO",
+    "Description": "Восстановление канала связи",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1119": {
+    "Id": 1119,
+    "CharId": "v",
+    "Description": "Прибор занят",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "162": {
+    "Id": 162,
+    "CharId": "TR",
+    "Description": "Увеличение задержки пуска ПТ",
+    "Category": "Пуски оборудования",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Останов задержки АУП Пультом"
+  },
+  "2232": {
+    "Id": 2232,
+    "CharId": "JO",
+    "Description": "ДК активирован",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "ДК активирован"
+  },
+  "1213": {
+    "Id": 1213,
+    "CharId": "v",
+    "Description": "Запрос начать запись",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Запуск записи на видеокамеру"
+  },
+  "1232": {
+    "Id": 1232,
+    "CharId": "v",
+    "Description": "Срабатывание детектора пересечения линии",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Срабатывание детектора пересечения линии"
+  },
+  "1115": {
+    "Id": 1115,
+    "CharId": "v",
+    "Description": "Обнаружено превышение лицензии",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "33": {
+    "Id": 33,
+    "CharId": "DT",
+    "Description": "Дверь заблокирована",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Дверь слишком долго открыта"
+  },
+  "4001": {
+    "Id": 4001,
+    "CharId": "",
+    "Description": "Начало перезагрузки БД в ядре",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "3001": {
+    "Id": 3001,
+    "CharId": "z",
+    "Description": "Потеряна связь с ключницей",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "3039": {
+    "Id": 3039,
+    "CharId": "z",
+    "Description": "Начало идентификации карты в ключнице",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "334": {
+    "Id": 334,
+    "CharId": "",
+    "Description": "Выключить на время при невзятии",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "234": {
+    "Id": 234,
+    "CharId": "JO",
+    "Description": "ДК не пройден",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "ДК пройден"
+  },
+  "134": {
+    "Id": 134,
+    "CharId": "TR",
+    "Description": "Переход в исходное состояние",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Переход клапана в исходное состояние"
+  },
+  "1133": {
+    "Id": 1133,
+    "CharId": "",
+    "Description": "Проход первого",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Проход первого сотрудника в зону доступа"
+  },
+  "70": {
+    "Id": 70,
+    "CharId": "JO",
+    "Description": "Журнал переполнен",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Произошла потеря событий от переполнения"
+  },
+  "3016": {
+    "Id": 3016,
+    "CharId": "z",
+    "Description": "Сервер ключниц - соединение установлено",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1200": {
+    "Id": 1200,
+    "CharId": "v",
+    "Description": "Подключение камеры",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Подключена камера видеонаблюдения"
+  },
+  "426": {
+    "Id": 426,
+    "CharId": "JO",
+    "Description": "Потерян основной канал ЛВС",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Потерян основной ЛВС канала"
+  },
+  "326": {
+    "Id": 326,
+    "CharId": "",
+    "Description": "Старая тактика ПЦН",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "226": {
+    "Id": 226,
+    "CharId": "JO",
+    "Description": "Автоматика выхода включена",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Автоматика выхода включена"
+  },
+  "1102": {
+    "Id": 1102,
+    "CharId": "z",
+    "Description": "Закрытие Оболочки",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "20": {
+    "Id": 20,
+    "CharId": "CI",
+    "Description": "Включение тестирования",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Вход переведен в режим -  Пожарное тестирование"
+  },
+  "126": {
+    "Id": 126,
+    "CharId": "QS",
+    "Description": "Потеря связи с выходом",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Отключение выхода (потеря реле)"
+  },
+  "192": {
+    "Id": 192,
+    "CharId": "",
+    "Description": "Отключение выходного напряжения",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "РИП отключил выходное напряжение"
+  },
+  "39": {
+    "Id": 39,
+    "CharId": "FH",
+    "Description": "Оборудование в норме",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "8200": {
+    "Id": 8200,
+    "CharId": "",
+    "Description": "АН не найден в базе данных",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Автомобильный номер не найден в базе данных"
+  },
+  "58": {
+    "Id": 58,
+    "CharId": "HA",
+    "Description": "Тихая тревога",
+    "Category": "Взятия\\снятия\\нормы",
+    "HexColor": "#000000",
+    "IsAlarm": true,
+    "Comments": "Нарушение тревожного Входа"
+  },
+  "421": {
+    "Id": 421,
+    "CharId": "JO",
+    "Description": "Потерян резервный канал",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Потерян резервный RS канала"
+  },
+  "321": {
+    "Id": 321,
+    "CharId": "",
+    "Description": "АСПТ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1532": {
+    "Id": 1532,
+    "CharId": "z",
+    "Description": "Команда открыть дверь (выход)",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Открыть дверь на выход - команда оператора"
+  },
+  "221": {
+    "Id": 221,
+    "CharId": "z",
+    "Description": "Отказ СДУ",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Несрабатывание датчика выхода огнетушащего вещества"
+  },
+  "121": {
+    "Id": 121,
+    "CharId": "QA",
+    "Description": "Обрыв цепи выхода (реле)",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Обрыв цепи нагрузки выхода"
+  },
+  "1234": {
+    "Id": 1234,
+    "CharId": "v",
+    "Description": "Тревога от детектора пересечения линии",
+    "Category": "Взятия\\снятия\\нормы",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Тревога от детектора пересечения линии"
+  },
+  "35": {
+    "Id": 35,
+    "CharId": "z",
+    "Description": "Восстановление технологического входа",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление технологического входа"
+  },
+  "3": {
+    "Id": 3,
+    "CharId": "BA",
+    "Description": "Тревога проникновения",
+    "Category": "Взятия\\снятия\\нормы",
+    "HexColor": "#000000",
+    "IsAlarm": true,
+    "Comments": "Нарушение взятого на охрану охранного Входа"
+  },
+  "4003": {
+    "Id": 4003,
+    "CharId": "",
+    "Description": "Завершение работы ядра",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "3003": {
+    "Id": 3003,
+    "CharId": "z",
+    "Description": "Возобновилось питание сети 220В ключницы",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1301": {
+    "Id": 1301,
+    "CharId": "",
+    "Description": "Запрос на включение распознавания",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "80": {
+    "Id": 80,
+    "CharId": "KH",
+    "Description": "Восстановление датчика затопления",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление датчика затопления"
+  },
+  "198": {
+    "Id": 198,
+    "CharId": "YP",
+    "Description": "Неисправность источника питания",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Напряжение питания прибора ниже\\выше допустимого"
+  },
+  "8301": {
+    "Id": 8301,
+    "CharId": "",
+    "Description": "Сирена выключена",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1271": {
+    "Id": 1271,
+    "CharId": "v",
+    "Description": "Выключение распознавания",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Выключение распознавания"
+  },
+  "413": {
+    "Id": 413,
+    "CharId": "JO",
+    "Description": "Потерян контакт по резервному каналу",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Потеря контакта по резервному каналу"
+  },
+  "313": {
+    "Id": 313,
+    "CharId": "",
+    "Description": "ВКЛЮЧИТЬ НА ВРЕМЯ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "213": {
+    "Id": 213,
+    "CharId": "KZ",
+    "Description": "Восстановление резервной батареи",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление резервной батареи"
+  },
+  "113": {
+    "Id": 113,
+    "CharId": "OR",
+    "Description": "Выход включен",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Включение контроля состояния выхода"
+  },
+  "72": {
+    "Id": 72,
+    "CharId": "JO",
+    "Description": "Уровень в норме",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Уровень в допустимом диапазоне"
+  },
+  "3040": {
+    "Id": 3040,
+    "CharId": "z",
+    "Description": "Время авторизации карты в ключнице истекло",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "95": {
+    "Id": 95,
+    "CharId": "",
+    "Description": "Угроза охлаждения",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Низкая температура обратной воды"
+  },
+  "9": {
+    "Id": 9,
+    "CharId": "BC",
+    "Description": "Активация УДП",
+    "Category": "Пуски",
+    "HexColor": "#FF0000",
+    "IsAlarm": false,
+    "Comments": "Нажата кнопка для дистанционного запуска противопожарного оборудования"
+  },
+  "156": {
+    "Id": 156,
+    "CharId": "TR",
+    "Description": "Ошибка ИУ",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Ошибка клапана"
+  },
+  "1104": {
+    "Id": 1104,
+    "CharId": "v",
+    "Description": "Удаленный запрос на отключение контроля",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "8500": {
+    "Id": 8500,
+    "CharId": "",
+    "Description": "Статистика: включена",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": "Включен сбор статистики"
+  },
+  "8402": {
+    "Id": 8402,
+    "CharId": "v",
+    "Description": "Удаленный запрос на пуск РО",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение РО"
+  },
+  "1651": {
+    "Id": 1651,
+    "CharId": "SL",
+    "Description": "Событие от сторонней системы",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Событие переданное из внешней системы "
+  },
+  "551": {
+    "Id": 551,
+    "CharId": "z",
+    "Description": "Отклоненная попытка прохода неизвестного",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Попытка(Отклоненная) прохода неизвестного пароля"
+  },
+  "419": {
+    "Id": 419,
+    "CharId": "JO",
+    "Description": "Потерян основной канал",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Потерян основной RS канала"
+  },
+  "319": {
+    "Id": 319,
+    "CharId": "",
+    "Description": "ЛАМПА",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "251": {
+    "Id": 251,
+    "CharId": "",
+    "Description": "Восстановлен контакт с устройством",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "205": {
+    "Id": 205,
+    "CharId": "z",
+    "Description": "Ошибка теста батареи",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Тест батареи указывает на разряженный аккумулятор"
+  },
+  "1209": {
+    "Id": 1209,
+    "CharId": "v",
+    "Description": "Видеосистема запущена",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Видеосистема была запущена"
+  },
+  "219": {
+    "Id": 219,
+    "CharId": "",
+    "Description": "Доступ открыт",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Доступ открыт для свободного прохода"
+  },
+  "151": {
+    "Id": 151,
+    "CharId": "JO",
+    "Description": "Отмена пуска РО",
+    "Category": "Тревоги",
+    "HexColor": "#FF0000",
+    "IsAlarm": false,
+    "Comments": "Сброс пуска речевого оповещения"
+  },
+  "119": {
+    "Id": 119,
+    "CharId": "z",
+    "Description": "Нарушение снятого входа",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "37": {
+    "Id": 37,
+    "CharId": "FA",
+    "Description": "Пожар",
+    "Category": "Отмены пуска",
+    "HexColor": "#FFFF00",
+    "IsAlarm": true,
+    "Comments": "Вход перешел из режима ВНИМАНИЕ в режим ПОЖАР"
+  },
+  "600": {
+    "Id": 600,
+    "CharId": "z",
+    "Description": "Метка контроля канала",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Пришло подтверждение контроля канала"
+  },
+  "1458": {
+    "Id": 1458,
+    "CharId": "z",
+    "Description": "Информация о лицензии",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Информация о ключе защиты"
+  },
+  "194": {
+    "Id": 194,
+    "CharId": "",
+    "Description": "Перегрузка источника питания",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Перегрузка источника питания (РИП) по току"
+  },
+  "1281": {
+    "Id": 1281,
+    "CharId": "v",
+    "Description": "Ошибка записи по камере",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Ошибка записи по камере"
+  },
+  "3005": {
+    "Id": 3005,
+    "CharId": "z",
+    "Description": "Вынули свой пенал по карте",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "78": {
+    "Id": 78,
+    "CharId": "KH",
+    "Description": "Температура в норме",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Температура в допустимом диапазоне"
+  },
+  "200": {
+    "Id": 200,
+    "CharId": "YR",
+    "Description": "Восстановление батареи",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Напряжение системной батареи вошло в норму"
+  },
+  "100": {
+    "Id": 100,
+    "CharId": "",
+    "Description": "Лето-День",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Переход на алгоритм Лето-День"
+  },
+  "82": {
+    "Id": 82,
+    "CharId": "KT",
+    "Description": "Неисправность термометра",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Неисправность измерителя температуры"
+  },
+  "443": {
+    "Id": 443,
+    "CharId": "JO",
+    "Description": "Принял дежурство с нарушением ДК",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "ДК не прошел но новый оператор заступил на дежурство"
+  },
+  "1273": {
+    "Id": 1273,
+    "CharId": "v",
+    "Description": "Выключение аналитического детектора",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Выключение аналитического детектора"
+  },
+  "343": {
+    "Id": 343,
+    "CharId": "",
+    "Description": "АСПТ-1",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "243": {
+    "Id": 243,
+    "CharId": "УВ",
+    "Description": "Удаленный запрос на взятие",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "28": {
+    "Id": 28,
+    "CharId": "DG",
+    "Description": "Доступ предоставлен",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Доступ предоставлен"
+  },
+  "143": {
+    "Id": 143,
+    "CharId": "JO",
+    "Description": "Отмена пуска ПТ",
+    "Category": "Тревоги",
+    "HexColor": "#FF0000",
+    "IsAlarm": false,
+    "Comments": "Сброс пуска пожаротушения"
+  },
+  "5": {
+    "Id": 5,
+    "CharId": "BC",
+    "Description": "Отключение звука",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Оператор подтвердил получение тревожного извещения"
+  },
+  "74": {
+    "Id": 74,
+    "CharId": "JO",
+    "Description": "Повышение уровня",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Уровень выше порога"
+  },
+  "1800": {
+    "Id": 1800,
+    "CharId": "",
+    "Description": "Потеря связи по 2-й ветви RS-485",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Отключение прибора от одной ветви кольцевого интерфейса RS-485"
+  },
+  "8408": {
+    "Id": 8408,
+    "CharId": "v",
+    "Description": "Удаленный запрос на включение автоматики ПТ",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение автоматики ПТ"
+  },
+  "97": {
+    "Id": 97,
+    "CharId": "",
+    "Description": "Перегрев обратной воды",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Высокая температура обратной воды"
+  },
+  "186": {
+    "Id": 186,
+    "CharId": "",
+    "Description": "Требуется замена батареи",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "24": {
+    "Id": 24,
+    "CharId": "CZ",
+    "Description": "Взятие входа на охрану",
+    "Category": "Неисправности\\нормы (корпус)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Вход взят под охрану"
+  },
+  "8404": {
+    "Id": 8404,
+    "CharId": "v",
+    "Description": "Удаленный запрос на включение теста индикации",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение теста индикации"
+  },
+  "281": {
+    "Id": 281,
+    "CharId": "",
+    "Description": "Снятие группы зон",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "435": {
+    "Id": 435,
+    "CharId": "JO",
+    "Description": "Не вышел с объекта",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Не вышел с объекта в заданное время"
+  },
+  "1653": {
+    "Id": 1653,
+    "CharId": "SL",
+    "Description": "Разрыв соединения с сервером",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Разрыв соединения с сервером БД"
+  },
+  "335": {
+    "Id": 335,
+    "CharId": "",
+    "Description": "Включить на время при нарушении технологического Входа",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "249": {
+    "Id": 249,
+    "CharId": "ПР",
+    "Description": "Окончание локального программирования",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "135": {
+    "Id": 135,
+    "CharId": "RP",
+    "Description": "Ошибка при автоматическом тестировании",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Выявлен сбой (неисправность) в оборудовании"
+  },
+  "149": {
+    "Id": 149,
+    "CharId": "TA",
+    "Description": "Взлом корпуса",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Корпус оборудования открыт"
+  },
+  "430": {
+    "Id": 430,
+    "CharId": "JO",
+    "Description": "Дистанционный контроль системы пройден",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Дистанционный контроль системы пройден"
+  },
+  "330": {
+    "Id": 330,
+    "CharId": "",
+    "Description": "Выключить на время при взятии",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "61": {
+    "Id": 61,
+    "CharId": "JD",
+    "Description": "Сброс конфигурации",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "230": {
+    "Id": 230,
+    "CharId": "JO",
+    "Description": "Останов задержки пуска выхода",
+    "Category": "Пуски оборудования",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Останов задержки пуска"
+  },
+  "3007": {
+    "Id": 3007,
+    "CharId": "z",
+    "Description": "Вставили пенал без карты",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1305": {
+    "Id": 1305,
+    "CharId": "",
+    "Description": "Запрос на выключение видеоаналитики камеры",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "130": {
+    "Id": 130,
+    "CharId": "JO",
+    "Description": "Включение насоса",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение насоса"
+  },
+  "84": {
+    "Id": 84,
+    "CharId": "LB",
+    "Description": "Локальное программирование",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Начало локального программирования"
+  },
+  "473": {
+    "Id": 473,
+    "CharId": "JO",
+    "Description": "Нет зон для управления",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Нет зон для управления"
+  },
+  "273": {
+    "Id": 273,
+    "CharId": "",
+    "Description": "Доступ закрыт (по кнопке)",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "173": {
+    "Id": 173,
+    "CharId": "VZ",
+    "Description": "Выключение принтера",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "76": {
+    "Id": 76,
+    "CharId": "KA",
+    "Description": "Повышение температуры",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Температура выше порога"
+  },
+  "322": {
+    "Id": 322,
+    "CharId": "",
+    "Description": "СИРЕНА",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "222": {
+    "Id": 222,
+    "CharId": "JO",
+    "Description": "Повышение напряжения ДПЛС",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Повышенное напряжение в ДПЛС"
+  },
+  "1225": {
+    "Id": 1225,
+    "CharId": "v",
+    "Description": "Окончание срабатывания детектора движения",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Окончание срабатывания детектора движения"
+  },
+  "122": {
+    "Id": 122,
+    "CharId": "QB",
+    "Description": "Короткое замыкание цепи выхода (реле)",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Короткое замыкание цепи нагрузки выхода"
+  },
+  "26": {
+    "Id": 26,
+    "CharId": "DD",
+    "Description": "Доступ отклонен",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Доступ отклонен, неизвестный код"
+  },
+  "8406": {
+    "Id": 8406,
+    "CharId": "v",
+    "Description": "Удаленный запрос на останов задержки пуска ПТ",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Останов задержки пуска"
+  },
+  "165": {
+    "Id": 165,
+    "CharId": "z",
+    "Description": "Ошибка параметров входа",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Выдает КДЛ при запросе АЦП, если Вход неправильно сконфигурирован"
+  },
+  "90": {
+    "Id": 90,
+    "CharId": "LT",
+    "Description": "Неисправность канала связи",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1541": {
+    "Id": 1541,
+    "CharId": "z",
+    "Description": "Команда закрыть доступ",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Заблокировать считыватель - команда оператора"
+  },
+  "1118": {
+    "Id": 1118,
+    "CharId": "v",
+    "Description": "Версия Драйвера Орион-2 не совместима",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "528": {
+    "Id": 528,
+    "CharId": "",
+    "Description": "Ключ разблокирован централизовано",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Ключ разблокирован через сценарии управления"
+  },
+  "428": {
+    "Id": 428,
+    "CharId": "JO",
+    "Description": "Потерян резервный канал ЛВС",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Потерян резервный ЛВС канал"
+  },
+  "360": {
+    "Id": 360,
+    "CharId": "",
+    "Description": "Запуск сценария управления",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "328": {
+    "Id": 328,
+    "CharId": "",
+    "Description": "Выключить на время перед взятием",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "228": {
+    "Id": 228,
+    "CharId": "JO",
+    "Description": "Блокировка выхода",
+    "Category": "Пожары",
+    "HexColor": "#FF0000",
+    "IsAlarm": false,
+    "Comments": "Блокировка выхода"
+  },
+  "160": {
+    "Id": 160,
+    "CharId": "z",
+    "Description": "Сброс задержки пуска РО",
+    "Category": "Пуски",
+    "HexColor": "#FF0000",
+    "IsAlarm": false,
+    "Comments": "Внутренняя зона восстановлена"
+  },
+  "128": {
+    "Id": 128,
+    "CharId": "",
+    "Description": "Изменение состояния выхода (включение/выключение реле)",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение/выключение/переключение реле в зависимости от маски мигания"
+  },
+  "337": {
+    "Id": 337,
+    "CharId": "",
+    "Description": "Включить при СНЯТИИ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "237": {
+    "Id": 237,
+    "CharId": "JO",
+    "Description": "Снята зона под принуждением",
+    "Category": "Неисправности\\нормы (ДПЛС)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Снят зона под принуждением"
+  },
+  "1212": {
+    "Id": 1212,
+    "CharId": "v",
+    "Description": "Удаленный запрос на снятие",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Отключение режима охраны"
+  },
+  "137": {
+    "Id": 137,
+    "CharId": "RS",
+    "Description": "Пуск выхода",
+    "Category": "Пуски",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Устаревшее"
+  },
+  "13": {
+    "Id": 13,
+    "CharId": "",
+    "Description": "Отказ от прохода",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Отказ от прохода"
+  },
+  "552": {
+    "Id": 552,
+    "CharId": "z",
+    "Description": "Проход неизвестного",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Проход неизвестного пароля"
+  },
+  "252": {
+    "Id": 252,
+    "CharId": "ПО",
+    "Description": "Подмена устройства",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "152": {
+    "Id": 152,
+    "CharId": "TR",
+    "Description": "Восстановление корпуса",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Корпус оборудования закрыт"
+  },
+  "195": {
+    "Id": 195,
+    "CharId": "",
+    "Description": "Перегрузка источника устранена",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Перегрузка источника питания (РИП) по току устранена"
+  },
+  "69": {
+    "Id": 69,
+    "CharId": "JL",
+    "Description": "Журнал заполнен",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Память журнала событий в абоненте достигла верхнего уровня"
+  },
+  "3015": {
+    "Id": 3015,
+    "CharId": "z",
+    "Description": "Доступ к пеналу ключницей предоставлен",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "8411": {
+    "Id": 8411,
+    "CharId": "v",
+    "Description": "Удаленный запрос на пуск выхода",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Пуск выхода."
+  },
+  "324": {
+    "Id": 324,
+    "CharId": "",
+    "Description": "ВЫХОД НЕИСПРАВНОСТЬ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "224": {
+    "Id": 224,
+    "CharId": "JO",
+    "Description": "Некорректный ответ устройства в ДПЛС",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Некорректный ответ адресного устройства в ДПЛС"
+  },
+  "190": {
+    "Id": 190,
+    "CharId": "",
+    "Description": "Потеря связи по ветви ДПЛС2",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Потерян контакт ДПЛС2 кольцевой ДПЛС"
+  },
+  "38": {
+    "Id": 38,
+    "CharId": "",
+    "Description": "Нарушение 2 технологического входа",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Другое нарушение технологического входа"
+  },
+  "5150": {
+    "Id": 5150,
+    "CharId": "",
+    "Description": "Старт модернизации БД",
+    "Category": "События ПО",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Инициирована команда выполнения модернизации БД из менеджера ЦСО"
+  },
+  "1585": {
+    "Id": 1585,
+    "CharId": "z",
+    "Description": "Команда отмена подтверждения",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Централизованное(оператором), отмена подтверждения доступа"
+  },
+  "158": {
+    "Id": 158,
+    "CharId": "z",
+    "Description": "Восстановление внутренней зоны",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Внутренняя зона восстановлена"
+  },
+  "6": {
+    "Id": 6,
+    "CharId": "BA",
+    "Description": "Помеха устранена",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Прекращение помехи в зоне"
+  },
+  "1214": {
+    "Id": 1214,
+    "CharId": "v",
+    "Description": "Запрос закончить запись",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Окончание записи на видеокамеру"
+  },
+  "5100": {
+    "Id": 5100,
+    "CharId": "",
+    "Description": "Запуск менеджера сервера",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1": {
+    "Id": 1,
+    "CharId": "AR",
+    "Description": "Восстановление сети 220",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Сеть 220В восстановлена"
+  },
+  "15": {
+    "Id": 15,
+    "CharId": "CI",
+    "Description": "Дверь открыта",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Зафиксировано открытие двери"
+  },
+  "516": {
+    "Id": 516,
+    "CharId": "",
+    "Description": "Параметр установлен",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Команда установки параметра исполнена"
+  },
+  "4002": {
+    "Id": 4002,
+    "CharId": "",
+    "Description": "Перезагрузка БД в ядре завершена",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "3002": {
+    "Id": 3002,
+    "CharId": "z",
+    "Description": "Пропало питание сети 220В ключницы",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "316": {
+    "Id": 316,
+    "CharId": "",
+    "Description": "Мигать из состояния ВКЛЮЧЕНО",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "216": {
+    "Id": 216,
+    "CharId": "SD",
+    "Description": "Сработка датчика",
+    "Category": "Неисправности (стандартные)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Одиночная сработка извещателя для пожарного входа"
+  },
+  "116": {
+    "Id": 116,
+    "CharId": "OR",
+    "Description": "Отключение адресата",
+    "Category": "Изменение состояния выхода",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Выключение контроля адресата и трансляции ему событий "
+  },
+  "98": {
+    "Id": 98,
+    "CharId": "",
+    "Description": "Загрязнение воздушного фильтра",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Большой перепад давления на воздушном фильтре"
+  },
+  "411": {
+    "Id": 411,
+    "CharId": "JO",
+    "Description": "Восстановление контакта по резервному каналу",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление контакта по резервному каналу"
+  },
+  "311": {
+    "Id": 311,
+    "CharId": "",
+    "Description": "ВКЛЮЧИТЬ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "211": {
+    "Id": 211,
+    "CharId": "KZ",
+    "Description": "Разряд батареи",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Разряд батареи"
+  },
+  "111": {
+    "Id": 111,
+    "CharId": "OR",
+    "Description": "Вход включен",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Контролируется состояние входа"
+  },
+  "8413": {
+    "Id": 8413,
+    "CharId": "v",
+    "Description": "Удаленный запрос на выключение теста индикации",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Выключение теста индикации"
+  },
+  "94": {
+    "Id": 94,
+    "CharId": "",
+    "Description": "Нагрев калорифера",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Нагрев калорифера"
+  },
+  "1201": {
+    "Id": 1201,
+    "CharId": "v",
+    "Description": "Отключение камеры",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Отключена камера видеонаблюдения"
+  },
+  "254": {
+    "Id": 254,
+    "CharId": "ДА",
+    "Description": "Отметка даты",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "154": {
+    "Id": 154,
+    "CharId": "TR",
+    "Description": "ИУ в исходном состоянии",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Восстановление клапана"
+  },
+  "188": {
+    "Id": 188,
+    "CharId": "JO",
+    "Description": "Восстановление связи со входом",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление анализа Входа (восстановление связи с входом)"
+  },
+  "8201": {
+    "Id": 8201,
+    "CharId": "",
+    "Description": "Новый автомобиль распознан",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Новый автомобиль распознан"
+  },
+  "5152": {
+    "Id": 5152,
+    "CharId": "",
+    "Description": "Ошибка при модернизации БД",
+    "Category": "События ПО",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Во время модернизации БД произошла исключительная ситуация"
+  },
+  "1450": {
+    "Id": 1450,
+    "CharId": "z",
+    "Description": "Деморежим ОЗ",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Не найден ключ для Ядра ОЗ"
+  },
+  "67": {
+    "Id": 67,
+    "CharId": "JD",
+    "Description": "Изменение даты",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "397": {
+    "Id": 397,
+    "CharId": "",
+    "Description": "Запрос на сброс тревоги",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Запрос на сброс тревоги"
+  },
+  "3008": {
+    "Id": 3008,
+    "CharId": "z",
+    "Description": "Вынули пенал без карты",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "197": {
+    "Id": 197,
+    "CharId": "",
+    "Description": "Восстановление ЗУ",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление зарядного устройства (РИП)"
+  },
+  "403": {
+    "Id": 403,
+    "CharId": "",
+    "Description": "Мигание реле",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Реле мигает"
+  },
+  "203": {
+    "Id": 203,
+    "CharId": "YW",
+    "Description": "Перезапуск устройства",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Абонент выработал внутренний сброс"
+  },
+  "1035": {
+    "Id": 1035,
+    "CharId": "ММ",
+    "Description": "Смена дежурства",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Приступил к работе другой оператор"
+  },
+  "103": {
+    "Id": 103,
+    "CharId": "",
+    "Description": "Зима-Ночь",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Переход на алгоритм Зима-Ночь"
+  },
+  "1216": {
+    "Id": 1216,
+    "CharId": "v",
+    "Description": "Выключение детектора движения",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Выключение детектора движения"
+  },
+  "997": {
+    "Id": 997,
+    "CharId": "z",
+    "Description": "Отметка контроля канала",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1400": {
+    "Id": 1400,
+    "CharId": "z",
+    "Description": "Приказ на перегрузку БД",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Приказ перегрузить БД на одном РМ, отличном от РМ с АБД"
+  },
+  "17": {
+    "Id": 17,
+    "CharId": "CI",
+    "Description": "Неудачное взятие",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "В момент постановки на охрану Вход был нарушен или неисправен"
+  },
+  "1280": {
+    "Id": 1280,
+    "CharId": "v",
+    "Description": "Ошибка подключения камеры",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Ошибка подключения камеры"
+  },
+  "246": {
+    "Id": 246,
+    "CharId": "НП",
+    "Description": "Неверный пароль",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "3004": {
+    "Id": 3004,
+    "CharId": "z",
+    "Description": "Аккумулятор ключницы разряжен",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1302": {
+    "Id": 1302,
+    "CharId": "",
+    "Description": "Запрос на выключение распознавания",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "146": {
+    "Id": 146,
+    "CharId": "SS",
+    "Description": "Пуск ПТ",
+    "Category": "Пуски",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Пуск системы пожаротушения"
+  },
+  "8400": {
+    "Id": 8400,
+    "CharId": "v",
+    "Description": "Удаленный запрос на включение тестирования",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Включение тестирования"
+  },
+  "8302": {
+    "Id": 8302,
+    "CharId": "",
+    "Description": "Команда на выключение сирены",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": "Выключить сирену - команда оператора"
+  },
+  "441": {
+    "Id": 441,
+    "CharId": "JO",
+    "Description": "Принял дежурство без ДК",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Принял дежурство без нарушений"
+  },
+  "341": {
+    "Id": 341,
+    "CharId": "",
+    "Description": "Включить при нарушении технологического Входа",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "241": {
+    "Id": 241,
+    "CharId": "ВР",
+    "Description": "Взятие зоны",
+    "Category": "Неисправности\\нормы (питание)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "141": {
+    "Id": 141,
+    "CharId": "SA",
+    "Description": "Задержка пуска ПТ",
+    "Category": "Пуски оборудования",
+    "HexColor": "#FF0000",
+    "IsAlarm": true,
+    "Comments": "Есть условия автоматического пуска пожаротушения"
+  },
+  "109": {
+    "Id": 109,
+    "CharId": "OP",
+    "Description": "Снятие входа с охраны",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Снятие входа с охраны"
+  },
+  "1136": {
+    "Id": 1136,
+    "CharId": "",
+    "Description": "Уход последнего",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Уход последнего сотрудника из зоны доступа"
+  },
+  "96": {
+    "Id": 96,
+    "CharId": "",
+    "Description": "Угроза замерзания",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Срабатывание термостата (капиллярного датчика)"
+  },
+  "1203": {
+    "Id": 1203,
+    "CharId": "v",
+    "Description": "Конец тревоги",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Окончание тревоги от видеокамеры"
+  },
+  "8501": {
+    "Id": 8501,
+    "CharId": "",
+    "Description": "Статистика: выключена",
+    "Category": "",
+    "HexColor": "",
+    "IsAlarm": false,
+    "Comments": "Сбор статистики выключен"
+  },
+  "8203": {
+    "Id": 8203,
+    "CharId": "",
+    "Description": "Сотрудник не распознан",
+    "Category": "Помехи",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Сотрудник не распознан"
+  },
+  "1750": {
+    "Id": 1750,
+    "CharId": "SL",
+    "Description": "Количество устройств превышает лицензию",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Количество устройств в БД превышает лицензию"
+  },
+  "1452": {
+    "Id": 1452,
+    "CharId": "z",
+    "Description": "Окончание действия резервного ключа",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Действие резервного ключа для ядра закончилось"
+  },
+  "333": {
+    "Id": 333,
+    "CharId": "",
+    "Description": "Включить на время при невзятии",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "233": {
+    "Id": 233,
+    "CharId": "JO",
+    "Description": "Сброс задержки пуска выхода",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "133": {
+    "Id": 133,
+    "CharId": "TR",
+    "Description": "Переход в рабочее состояние ",
+    "Category": "Неисправности\\нормы (каналы)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Переход клапана "
+  },
+  "1240": {
+    "Id": 1240,
+    "CharId": "v",
+    "Description": "Окончание демо-режима работы видеосистемы",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Окончание демо-режима работы видеосистемы"
+  },
+  "41": {
+    "Id": 41,
+    "CharId": "FJ",
+    "Description": "Неисправность оборудования",
+    "Category": "Взятия\\снятия зон",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1602": {
+    "Id": 1602,
+    "CharId": "SL",
+    "Description": "Резервный сервер отключен",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": "Отключение резервного сервера БД"
+  },
+  "3006": {
+    "Id": 3006,
+    "CharId": "z",
+    "Description": "Вставили свой пенал по карте",
+    "Category": "Неисправности\\нормы (связь)",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "1304": {
+    "Id": 1304,
+    "CharId": "",
+    "Description": "Запрос на включение видеоаналитики камеры",
+    "Category": "Отключения\\включения автоматики",
+    "HexColor": "#FFFF00",
+    "IsAlarm": false,
+    "Comments": ""
+  },
+  "79": {
+    "Id": 79,
+    "CharId": "KH",
+    "Description": "Тревога затопления",
+    "Category": "Взятия\\снятия\\нормы",
+    "HexColor": "#000000",
+    "IsAlarm": true,
+    "Comments": "Тревога затопления"
+  },
+  "83": {
+    "Id": 83,
+    "CharId": "",
+    "Description": "Восстановление термометра",
+    "Category": "Отключения\\включения",
+    "HexColor": "#000000",
+    "IsAlarm": false,
+    "Comments": "Восстановление измерителя температуры"
+  }
+}

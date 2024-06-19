@@ -1,0 +1,40 @@
+{
+  "5": {
+    "Id": 5,
+    "Number": 10001,
+    "Name": "ap",
+    "ComputerId": 1,
+    "SectionTypeId": 0,
+    "SectionTypeName": "",
+    "Items": [],
+    "RemoteControlCategoriesIds": [
+      2
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "Number": 1,
+    "Name": "Состояние Сириус",
+    "ComputerId": 1,
+    "SectionTypeId": 0,
+    "SectionTypeName": "",
+    "Items": [],
+    "RemoteControlCategoriesIds": [
+      6,
+      400,
+      401
+    ]
+  },
+  "6": {
+    "Id": 6,
+    "Number": 10002,
+    "Name": "Дип-34",
+    "ComputerId": 1,
+    "SectionTypeId": 0,
+    "SectionTypeName": "",
+    "Items": [],
+    "RemoteControlCategoriesIds": [
+      2
+    ]
+  }
+}

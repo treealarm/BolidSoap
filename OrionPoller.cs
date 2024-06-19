@@ -32,11 +32,31 @@ namespace BolidSoap
     private ConcurrentDictionary<string, TSection> _section_items = new ConcurrentDictionary<string, TSection>();
     private ConcurrentDictionary<string, TSectionsGroup> _sections_group_items = new ConcurrentDictionary<string, TSectionsGroup>();
     private ConcurrentDictionary<string, TItem> _item_states = new ConcurrentDictionary<string, TItem>();
+    private ConcurrentDictionary<string, TEventType> _event_types = new ConcurrentDictionary<string, TEventType>();
     public OrionPoller(string remoteAddress, string user, string password)
     {
       _remoteAddress = remoteAddress;
       _user = user;
       _password = password;
+    }
+
+    private async Task SaveAll()
+    {
+      File.WriteAllText($"{nameof(_computers)}", "");
+      File.WriteAllText($"{nameof(_devices)}", "");
+      File.WriteAllText($"{nameof(_device_items)}", "");
+      File.WriteAllText($"{nameof(_section_items)}", "");
+      File.WriteAllText($"{nameof(_sections_group_items)}", "");
+      File.WriteAllText($"{nameof(_item_states)}", "");
+      File.WriteAllText($"{nameof(_event_types)}", "");
+
+      await WriteJson(_computers, string.Empty, $"{nameof(_computers)}.json");
+      await WriteJson(_devices, string.Empty, $"{nameof(_devices)}.json");
+      await WriteJson(_device_items, string.Empty, $"{nameof(_device_items)}.json");
+      await WriteJson(_section_items, string.Empty, $"{nameof(_section_items)}.json");
+      await WriteJson(_sections_group_items, string.Empty, $"{nameof(_sections_group_items)}.json");
+      await WriteJson(_item_states, string.Empty, $"{nameof(_item_states)}.json");
+      await WriteJson(_event_types, string.Empty, $"{nameof(_event_types)}.json");
     }
     private static string compute_md5(string input)
     {
@@ -49,7 +69,7 @@ namespace BolidSoap
       }
     }
 
-    static void WriteJson<T>(T o, [CallerMemberName] string sec_name = "")
+    static async Task  WriteJson<T>(T o, [CallerMemberName] string sec_name = "", string file_name = "")
     {
       var s = JsonSerializer.Serialize(o,
         new JsonSerializerOptions
@@ -57,18 +77,24 @@ namespace BolidSoap
           Encoder = JavaScriptEncoder.Create(UnicodeRanges.BasicLatin, UnicodeRanges.Cyrillic),
           WriteIndented = true
         }
-        );
-      Console.WriteLine($"start======{sec_name}====================");
-      Console.WriteLine(typeof(T).Name);
-      Console.WriteLine("==========================");
-      Console.WriteLine(s);
-      Console.WriteLine($"end======{sec_name}====================");
+      );
+      //Console.WriteLine($"start======{sec_name}====================");
+      //Console.WriteLine(typeof(T).Name);
+      //Console.WriteLine("==========================");
 
-      File.AppendAllText("log.json", "\n");
-      File.AppendAllText("log.json", "==========================\n");
-      File.AppendAllText("log.json", $"{sec_name} of {typeof(T).Name}");
-      File.AppendAllText("log.json", "\n==========================\n");
-      File.AppendAllText("log.json", s);
+      //Console.WriteLine(s);
+
+      //Console.WriteLine($"end======{sec_name}====================");
+
+      if (!string.IsNullOrEmpty(sec_name))
+      {
+        File.AppendAllText(file_name, "\n");
+        File.AppendAllText(file_name, "==========================\n");
+        File.AppendAllText(file_name, $"{sec_name} of {typeof(T).Name}");
+        File.AppendAllText(file_name, "\n==========================\n");
+      }
+      
+      await File.AppendAllTextAsync(file_name, s);
     }
 
     public async Task<bool> Init()
@@ -87,13 +113,15 @@ namespace BolidSoap
 
       retVal = retVal && await GetSections();
       retVal = retVal && await GetSectionsGroups();
+      retVal = retVal && await GetEventTypes();
 
-      
+      await SaveAll();
       IsInited = retVal;
 
       return retVal;
     }
 
+    
     private async Task<bool> CreateToken()
     {
       var md5_pass = compute_md5(_password);
@@ -187,7 +215,7 @@ namespace BolidSoap
         }
       }      
 
-      return result.@return != null && result.@return.Success;
+      return result?.@return != null && result.@return.Success;
     }
     async Task<bool> GetDevices()
     {
@@ -203,6 +231,25 @@ namespace BolidSoap
         foreach (var item in items)
         {
           _devices.AddOrUpdate($"{item.Id}", item, (key, oldValue) => item);
+        }
+      }
+
+      return result?.@return != null && result.@return.Success;
+    }
+    async Task<bool> GetEventTypes()
+    {
+      var result = await _client!.GetEventTypesAsync(_token);
+      PrintStatus(result?.@return?.ServiceError);
+
+      if (result?.@return != null && result.@return.Success)
+      {
+        _event_types.Clear();
+
+        var items = result.@return.OperationResult;
+
+        foreach (var item in items)
+        {
+          _event_types.AddOrUpdate($"{item.Id}", item, (key, oldValue) => item);
         }
       }
 

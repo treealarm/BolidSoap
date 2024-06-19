@@ -1,0 +1,3992 @@
+{
+  "LOOP155": {
+    "Id": 155,
+    "Name": "ШС 145, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 145,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP109": {
+    "Id": 109,
+    "Name": "ШС 99, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 99,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP355": {
+    "Id": 355,
+    "Name": "ШС 83, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 83,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP309": {
+    "Id": 309,
+    "Name": "ШС 37, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 37,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP255": {
+    "Id": 255,
+    "Name": "ШС 245, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 245,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP209": {
+    "Id": 209,
+    "Name": "ШС 199, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 199,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP73": {
+    "Id": 73,
+    "Name": "ШС 63, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 63,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP196": {
+    "Id": 196,
+    "Name": "ШС 186, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 186,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP102": {
+    "Id": 102,
+    "Name": "ШС 92, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 92,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP396": {
+    "Id": 396,
+    "Name": "ШС 124, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 124,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP296": {
+    "Id": 296,
+    "Name": "ШС 24, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 24,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP302": {
+    "Id": 302,
+    "Name": "ШС 30, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 30,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP202": {
+    "Id": 202,
+    "Name": "ШС 192, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 192,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP18": {
+    "Id": 18,
+    "Name": "ШС 8, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 8,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP147": {
+    "Id": 147,
+    "Name": "ШС 137, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 137,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP347": {
+    "Id": 347,
+    "Name": "ШС 75, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 75,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP247": {
+    "Id": 247,
+    "Name": "ШС 237, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 237,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP66": {
+    "Id": 66,
+    "Name": "ШС 56, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 56,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP188": {
+    "Id": 188,
+    "Name": "ШС 178, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 178,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP140": {
+    "Id": 140,
+    "Name": "ШС 130, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 130,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP388": {
+    "Id": 388,
+    "Name": "ШС 116, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 116,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP340": {
+    "Id": 340,
+    "Name": "ШС 68, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 68,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP288": {
+    "Id": 288,
+    "Name": "ШС 16, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 16,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP240": {
+    "Id": 240,
+    "Name": "ШС 230, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 230,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP36": {
+    "Id": 36,
+    "Name": "ШС 26, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 26,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP185": {
+    "Id": 185,
+    "Name": "ШС 175, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 175,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP139": {
+    "Id": 139,
+    "Name": "ШС 129, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 129,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP385": {
+    "Id": 385,
+    "Name": "ШС 113, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 113,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP339": {
+    "Id": 339,
+    "Name": "ШС 67, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 67,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP239": {
+    "Id": 239,
+    "Name": "ШС 229, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 229,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP285": {
+    "Id": 285,
+    "Name": "ШС 13, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 13,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP75": {
+    "Id": 75,
+    "Name": "ШС 65, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 65,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP132": {
+    "Id": 132,
+    "Name": "ШС 122, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 122,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP332": {
+    "Id": 332,
+    "Name": "ШС 60, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 60,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP232": {
+    "Id": 232,
+    "Name": "ШС 222, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 222,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP177": {
+    "Id": 177,
+    "Name": "ШС 167, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 167,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP377": {
+    "Id": 377,
+    "Name": "ШС 105, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 105,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP277": {
+    "Id": 277,
+    "Name": "ШС 5, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 5,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP68": {
+    "Id": 68,
+    "Name": "ШС 58, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 58,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP170": {
+    "Id": 170,
+    "Name": "ШС 160, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 160,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP124": {
+    "Id": 124,
+    "Name": "ШС 114, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 114,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP324": {
+    "Id": 324,
+    "Name": "ШС 52, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 52,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP370": {
+    "Id": 370,
+    "Name": "ШС 98, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 98,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP224": {
+    "Id": 224,
+    "Name": "ШС 214, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 214,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP270": {
+    "Id": 270,
+    "Name": "ШС 5, Прибор 2",
+    "DeviceId": 4,
+    "ItemType": "LOOP",
+    "Address": 5,
+    "AdditionalType": 73,
+    "RemoteControlCategoryId": 401,
+    "ContactId": 0
+  },
+  "LOOP38": {
+    "Id": 38,
+    "Name": "ШС 28, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 28,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP59": {
+    "Id": 59,
+    "Name": "ШС 49, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 49,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP40": {
+    "Id": 40,
+    "Name": "ШС 30, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 30,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP169": {
+    "Id": 169,
+    "Name": "ШС 159, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 159,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP121": {
+    "Id": 121,
+    "Name": "ШС 111, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 111,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP369": {
+    "Id": 369,
+    "Name": "ШС 97, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 97,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP269": {
+    "Id": 269,
+    "Name": "ШС 4, Прибор 2",
+    "DeviceId": 4,
+    "ItemType": "LOOP",
+    "Address": 4,
+    "AdditionalType": 72,
+    "RemoteControlCategoryId": 401,
+    "ContactId": 0
+  },
+  "LOOP321": {
+    "Id": 321,
+    "Name": "ШС 49, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 49,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP221": {
+    "Id": 221,
+    "Name": "ШС 211, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 211,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP162": {
+    "Id": 162,
+    "Name": "ШС 152, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 152,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP77": {
+    "Id": 77,
+    "Name": "ШС 67, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 67,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP362": {
+    "Id": 362,
+    "Name": "ШС 90, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 90,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP262": {
+    "Id": 262,
+    "Name": "ШС 252, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 252,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP113": {
+    "Id": 113,
+    "Name": "ШС 103, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 103,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP24": {
+    "Id": 24,
+    "Name": "ШС 14, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 14,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP313": {
+    "Id": 313,
+    "Name": "ШС 41, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 41,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP213": {
+    "Id": 213,
+    "Name": "ШС 203, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 203,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP154": {
+    "Id": 154,
+    "Name": "ШС 144, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 144,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP354": {
+    "Id": 354,
+    "Name": "ШС 82, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 82,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP254": {
+    "Id": 254,
+    "Name": "ШС 244, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 244,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP42": {
+    "Id": 42,
+    "Name": "ШС 32, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 32,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP199": {
+    "Id": 199,
+    "Name": "ШС 189, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 189,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP151": {
+    "Id": 151,
+    "Name": "ШС 141, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 141,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP399": {
+    "Id": 399,
+    "Name": "ШС 127, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 127,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP299": {
+    "Id": 299,
+    "Name": "ШС 27, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 27,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP351": {
+    "Id": 351,
+    "Name": "ШС 79, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 79,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP251": {
+    "Id": 251,
+    "Name": "ШС 241, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 241,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP126": {
+    "Id": 126,
+    "Name": "ШС 116, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 116,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP12": {
+    "Id": 12,
+    "Name": "ШС 2, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 2,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP33": {
+    "Id": 33,
+    "Name": "ШС 23, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 23,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP326": {
+    "Id": 326,
+    "Name": "ШС 54, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 54,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP226": {
+    "Id": 226,
+    "Name": "ШС 216, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 216,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP192": {
+    "Id": 192,
+    "Name": "ШС 182, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 182,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP79": {
+    "Id": 79,
+    "Name": "ШС 69, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 69,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP392": {
+    "Id": 392,
+    "Name": "ШС 120, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 120,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP292": {
+    "Id": 292,
+    "Name": "ШС 20, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 20,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP81": {
+    "Id": 81,
+    "Name": "ШС 71, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 71,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP143": {
+    "Id": 143,
+    "Name": "ШС 133, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 133,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "RELAY6": {
+    "Id": 6,
+    "Name": "Реле 4, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "RELAY",
+    "Address": 4,
+    "AdditionalType": 1,
+    "RemoteControlCategoryId": 6,
+    "ContactId": 0
+  },
+  "LOOP343": {
+    "Id": 343,
+    "Name": "ШС 71, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 71,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP243": {
+    "Id": 243,
+    "Name": "ШС 233, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 233,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP26": {
+    "Id": 26,
+    "Name": "ШС 16, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 16,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP51": {
+    "Id": 51,
+    "Name": "ШС 41, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 41,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP118": {
+    "Id": 118,
+    "Name": "ШС 108, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 108,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP318": {
+    "Id": 318,
+    "Name": "ШС 46, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 46,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP218": {
+    "Id": 218,
+    "Name": "ШС 208, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 208,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP184": {
+    "Id": 184,
+    "Name": "ШС 174, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 174,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP384": {
+    "Id": 384,
+    "Name": "ШС 112, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 112,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP284": {
+    "Id": 284,
+    "Name": "ШС 12, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 12,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP115": {
+    "Id": 115,
+    "Name": "ШС 105, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 105,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP44": {
+    "Id": 44,
+    "Name": "ШС 34, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 34,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP315": {
+    "Id": 315,
+    "Name": "ШС 43, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 43,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP215": {
+    "Id": 215,
+    "Name": "ШС 205, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 205,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP181": {
+    "Id": 181,
+    "Name": "ШС 171, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 171,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP381": {
+    "Id": 381,
+    "Name": "ШС 109, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 109,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP281": {
+    "Id": 281,
+    "Name": "ШС 9, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 9,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP156": {
+    "Id": 156,
+    "Name": "ШС 146, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 146,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP14": {
+    "Id": 14,
+    "Name": "ШС 4, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 4,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP356": {
+    "Id": 356,
+    "Name": "ШС 84, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 84,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP256": {
+    "Id": 256,
+    "Name": "ШС 246, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 246,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP35": {
+    "Id": 35,
+    "Name": "ШС 25, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 25,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP98": {
+    "Id": 98,
+    "Name": "ШС 88, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 88,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP83": {
+    "Id": 83,
+    "Name": "ШС 73, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 73,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP107": {
+    "Id": 107,
+    "Name": "ШС 97, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 97,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP307": {
+    "Id": 307,
+    "Name": "ШС 35, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 35,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP207": {
+    "Id": 207,
+    "Name": "ШС 197, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 197,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP173": {
+    "Id": 173,
+    "Name": "ШС 163, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 163,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "RELAY4": {
+    "Id": 4,
+    "Name": "Реле 2, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "RELAY",
+    "Address": 2,
+    "AdditionalType": 0,
+    "RemoteControlCategoryId": 6,
+    "ContactId": 0
+  },
+  "READER2": {
+    "Id": 2,
+    "Name": "Считыватель Сириус Считыватель 2, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "READER",
+    "Address": 2,
+    "AdditionalType": 0,
+    "RemoteControlCategoryId": 5,
+    "ContactId": 0
+  },
+  "LOOP373": {
+    "Id": 373,
+    "Name": "ШС 101, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 101,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP273": {
+    "Id": 273,
+    "Name": "ШС 1, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 1,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP28": {
+    "Id": 28,
+    "Name": "ШС 18, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 18,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP53": {
+    "Id": 53,
+    "Name": "ШС 43, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 43,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP148": {
+    "Id": 148,
+    "Name": "ШС 138, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 138,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP100": {
+    "Id": 100,
+    "Name": "ШС 90, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 90,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP348": {
+    "Id": 348,
+    "Name": "ШС 76, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 76,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP248": {
+    "Id": 248,
+    "Name": "ШС 238, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 238,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP300": {
+    "Id": 300,
+    "Name": "ШС 28, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 28,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP200": {
+    "Id": 200,
+    "Name": "ШС 190, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 190,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP145": {
+    "Id": 145,
+    "Name": "ШС 135, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 135,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP345": {
+    "Id": 345,
+    "Name": "ШС 73, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 73,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP245": {
+    "Id": 245,
+    "Name": "ШС 235, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 235,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP46": {
+    "Id": 46,
+    "Name": "ШС 36, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 36,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP67": {
+    "Id": 67,
+    "Name": "ШС 57, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 57,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP186": {
+    "Id": 186,
+    "Name": "ШС 176, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 176,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP386": {
+    "Id": 386,
+    "Name": "ШС 114, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 114,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP286": {
+    "Id": 286,
+    "Name": "ШС 14, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 14,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP37": {
+    "Id": 37,
+    "Name": "ШС 27, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 27,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP85": {
+    "Id": 85,
+    "Name": "ШС 75, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 75,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP137": {
+    "Id": 137,
+    "Name": "ШС 127, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 127,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP337": {
+    "Id": 337,
+    "Name": "ШС 65, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 65,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP237": {
+    "Id": 237,
+    "Name": "ШС 227, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 227,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "RELAY10": {
+    "Id": 10,
+    "Name": "Питание 24В",
+    "DeviceId": 3,
+    "ItemType": "RELAY",
+    "Address": 8,
+    "AdditionalType": 0,
+    "RemoteControlCategoryId": 6,
+    "ContactId": 0
+  },
+  "LOOP55": {
+    "Id": 55,
+    "Name": "ШС 45, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 45,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP178": {
+    "Id": 178,
+    "Name": "ШС 168, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 168,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP72": {
+    "Id": 72,
+    "Name": "ШС 62, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 62,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP130": {
+    "Id": 130,
+    "Name": "ШС 120, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 120,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP378": {
+    "Id": 378,
+    "Name": "ШС 106, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 106,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP330": {
+    "Id": 330,
+    "Name": "ШС 58, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 58,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP278": {
+    "Id": 278,
+    "Name": "ШС 6, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 6,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP230": {
+    "Id": 230,
+    "Name": "ШС 220, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 220,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP175": {
+    "Id": 175,
+    "Name": "ШС 165, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 165,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP129": {
+    "Id": 129,
+    "Name": "ШС 119, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 119,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP329": {
+    "Id": 329,
+    "Name": "ШС 57, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 57,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP375": {
+    "Id": 375,
+    "Name": "ШС 103, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 103,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP229": {
+    "Id": 229,
+    "Name": "ШС 219, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 219,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP275": {
+    "Id": 275,
+    "Name": "ШС 3, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 3,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP48": {
+    "Id": 48,
+    "Name": "ШС 38, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 38,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP69": {
+    "Id": 69,
+    "Name": "ШС 59, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 59,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP90": {
+    "Id": 90,
+    "Name": "ШС 80, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 80,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP122": {
+    "Id": 122,
+    "Name": "ШС 112, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 112,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP322": {
+    "Id": 322,
+    "Name": "ШС 50, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 50,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP222": {
+    "Id": 222,
+    "Name": "ШС 212, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 212,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP39": {
+    "Id": 39,
+    "Name": "ШС 29, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 29,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP20": {
+    "Id": 20,
+    "Name": "ШС 10, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 10,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP41": {
+    "Id": 41,
+    "Name": "ШС 31, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 31,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP167": {
+    "Id": 167,
+    "Name": "ШС 157, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 157,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP87": {
+    "Id": 87,
+    "Name": "ШС 77, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 77,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP367": {
+    "Id": 367,
+    "Name": "ШС 95, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 95,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP267": {
+    "Id": 267,
+    "Name": "ШС 2, Прибор 2",
+    "DeviceId": 4,
+    "ItemType": "LOOP",
+    "Address": 2,
+    "AdditionalType": 71,
+    "RemoteControlCategoryId": 401,
+    "ContactId": 0
+  },
+  "LOOP11": {
+    "Id": 11,
+    "Name": "Неисправность ШС 1, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 1,
+    "AdditionalType": 76,
+    "RemoteControlCategoryId": 400,
+    "ContactId": 0
+  },
+  "RELAY8": {
+    "Id": 8,
+    "Name": "Пуск",
+    "DeviceId": 3,
+    "ItemType": "RELAY",
+    "Address": 6,
+    "AdditionalType": 0,
+    "RemoteControlCategoryId": 6,
+    "ContactId": 0
+  },
+  "LOOP160": {
+    "Id": 160,
+    "Name": "ШС 150, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 150,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP114": {
+    "Id": 114,
+    "Name": "ШС 104, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 104,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP57": {
+    "Id": 57,
+    "Name": "ШС 47, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 47,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP74": {
+    "Id": 74,
+    "Name": "ШС 64, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 64,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP314": {
+    "Id": 314,
+    "Name": "ШС 42, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 42,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP360": {
+    "Id": 360,
+    "Name": "ШС 88, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 88,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP260": {
+    "Id": 260,
+    "Name": "ШС 250, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 250,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP214": {
+    "Id": 214,
+    "Name": "ШС 204, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 204,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP159": {
+    "Id": 159,
+    "Name": "ШС 149, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 149,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP111": {
+    "Id": 111,
+    "Name": "ШС 101, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 101,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP359": {
+    "Id": 359,
+    "Name": "ШС 87, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 87,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP259": {
+    "Id": 259,
+    "Name": "ШС 249, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 249,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP311": {
+    "Id": 311,
+    "Name": "ШС 39, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 39,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP211": {
+    "Id": 211,
+    "Name": "ШС 201, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 201,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP92": {
+    "Id": 92,
+    "Name": "ШС 82, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 82,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP152": {
+    "Id": 152,
+    "Name": "ШС 142, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 142,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP352": {
+    "Id": 352,
+    "Name": "ШС 80, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 80,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP252": {
+    "Id": 252,
+    "Name": "ШС 242, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 242,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP22": {
+    "Id": 22,
+    "Name": "ШС 12, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 12,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP43": {
+    "Id": 43,
+    "Name": "ШС 33, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 33,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP197": {
+    "Id": 197,
+    "Name": "ШС 187, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 187,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP103": {
+    "Id": 103,
+    "Name": "ШС 93, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 93,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP89": {
+    "Id": 89,
+    "Name": "ШС 79, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 79,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP397": {
+    "Id": 397,
+    "Name": "ШС 125, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 125,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP303": {
+    "Id": 303,
+    "Name": "ШС 31, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 31,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP297": {
+    "Id": 297,
+    "Name": "ШС 25, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 25,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP203": {
+    "Id": 203,
+    "Name": "ШС 193, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 193,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP13": {
+    "Id": 13,
+    "Name": "ШС 3, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 3,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP190": {
+    "Id": 190,
+    "Name": "ШС 180, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 180,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP144": {
+    "Id": 144,
+    "Name": "ШС 134, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 134,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP344": {
+    "Id": 344,
+    "Name": "ШС 72, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 72,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP390": {
+    "Id": 390,
+    "Name": "ШС 118, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 118,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP244": {
+    "Id": 244,
+    "Name": "ШС 234, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 234,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP76": {
+    "Id": 76,
+    "Name": "ШС 66, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 66,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP290": {
+    "Id": 290,
+    "Name": "ШС 18, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 18,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP61": {
+    "Id": 61,
+    "Name": "ШС 51, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 51,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP189": {
+    "Id": 189,
+    "Name": "ШС 179, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 179,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP141": {
+    "Id": 141,
+    "Name": "ШС 131, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 131,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP389": {
+    "Id": 389,
+    "Name": "ШС 117, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 117,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP289": {
+    "Id": 289,
+    "Name": "ШС 17, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 17,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP341": {
+    "Id": 341,
+    "Name": "ШС 69, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 69,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP241": {
+    "Id": 241,
+    "Name": "ШС 231, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 231,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP31": {
+    "Id": 31,
+    "Name": "ШС 21, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 21,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP116": {
+    "Id": 116,
+    "Name": "ШС 106, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 106,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP94": {
+    "Id": 94,
+    "Name": "ШС 84, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 84,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP316": {
+    "Id": 316,
+    "Name": "ШС 44, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 44,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP216": {
+    "Id": 216,
+    "Name": "ШС 206, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 206,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP182": {
+    "Id": 182,
+    "Name": "ШС 172, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 172,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP382": {
+    "Id": 382,
+    "Name": "ШС 110, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 110,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP282": {
+    "Id": 282,
+    "Name": "ШС 10, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 10,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP45": {
+    "Id": 45,
+    "Name": "ШС 35, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 35,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP133": {
+    "Id": 133,
+    "Name": "ШС 123, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 123,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP333": {
+    "Id": 333,
+    "Name": "ШС 61, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 61,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP233": {
+    "Id": 233,
+    "Name": "ШС 223, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 223,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP108": {
+    "Id": 108,
+    "Name": "ШС 98, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 98,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP308": {
+    "Id": 308,
+    "Name": "ШС 36, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 36,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP208": {
+    "Id": 208,
+    "Name": "ШС 198, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 198,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP15": {
+    "Id": 15,
+    "Name": "ШС 5, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 5,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP174": {
+    "Id": 174,
+    "Name": "ШС 164, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 164,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP374": {
+    "Id": 374,
+    "Name": "ШС 102, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 102,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP274": {
+    "Id": 274,
+    "Name": "ШС 2, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 2,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP78": {
+    "Id": 78,
+    "Name": "ШС 68, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 68,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP63": {
+    "Id": 63,
+    "Name": "ШС 53, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 53,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP80": {
+    "Id": 80,
+    "Name": "ШС 70, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 70,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP105": {
+    "Id": 105,
+    "Name": "ШС 95, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 95,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP305": {
+    "Id": 305,
+    "Name": "ШС 33, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 33,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP205": {
+    "Id": 205,
+    "Name": "ШС 195, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 195,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP171": {
+    "Id": 171,
+    "Name": "ШС 161, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 161,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP371": {
+    "Id": 371,
+    "Name": "ШС 99, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 99,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP271": {
+    "Id": 271,
+    "Name": "ШС 6, Прибор 2",
+    "DeviceId": 4,
+    "ItemType": "LOOP",
+    "Address": 6,
+    "AdditionalType": 74,
+    "RemoteControlCategoryId": 401,
+    "ContactId": 0
+  },
+  "LOOP50": {
+    "Id": 50,
+    "Name": "ШС 40, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 40,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP146": {
+    "Id": 146,
+    "Name": "ШС 136, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 136,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP346": {
+    "Id": 346,
+    "Name": "ШС 74, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 74,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP246": {
+    "Id": 246,
+    "Name": "ШС 236, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 236,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP96": {
+    "Id": 96,
+    "Name": "ШС 86, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 86,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP163": {
+    "Id": 163,
+    "Name": "ШС 153, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 153,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP47": {
+    "Id": 47,
+    "Name": "ШС 37, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 37,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP363": {
+    "Id": 363,
+    "Name": "ШС 91, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 91,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP263": {
+    "Id": 263,
+    "Name": "ШС 253, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 253,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP138": {
+    "Id": 138,
+    "Name": "ШС 128, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 128,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP338": {
+    "Id": 338,
+    "Name": "ШС 66, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 66,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP238": {
+    "Id": 238,
+    "Name": "ШС 228, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 228,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP17": {
+    "Id": 17,
+    "Name": "ШС 7, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 7,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP65": {
+    "Id": 65,
+    "Name": "ШС 55, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 55,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP82": {
+    "Id": 82,
+    "Name": "ШС 72, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 72,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP135": {
+    "Id": 135,
+    "Name": "ШС 125, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 125,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP335": {
+    "Id": 335,
+    "Name": "ШС 63, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 63,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP235": {
+    "Id": 235,
+    "Name": "ШС 225, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 225,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "RELAY5": {
+    "Id": 5,
+    "Name": "Реле 3, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "RELAY",
+    "Address": 3,
+    "AdditionalType": 1,
+    "RemoteControlCategoryId": 6,
+    "ContactId": 0
+  },
+  "LOOP176": {
+    "Id": 176,
+    "Name": "ШС 166, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 166,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP52": {
+    "Id": 52,
+    "Name": "ШС 42, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 42,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP376": {
+    "Id": 376,
+    "Name": "ШС 104, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 104,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP276": {
+    "Id": 276,
+    "Name": "ШС 4, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 4,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP127": {
+    "Id": 127,
+    "Name": "ШС 117, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 117,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP327": {
+    "Id": 327,
+    "Name": "ШС 55, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 55,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP227": {
+    "Id": 227,
+    "Name": "ШС 217, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 217,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP193": {
+    "Id": 193,
+    "Name": "ШС 183, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 183,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP49": {
+    "Id": 49,
+    "Name": "ШС 39, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 39,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP393": {
+    "Id": 393,
+    "Name": "ШС 121, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 121,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP293": {
+    "Id": 293,
+    "Name": "ШС 21, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 21,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP70": {
+    "Id": 70,
+    "Name": "ШС 60, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 60,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP91": {
+    "Id": 91,
+    "Name": "ШС 81, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 81,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP168": {
+    "Id": 168,
+    "Name": "ШС 158, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 158,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP120": {
+    "Id": 120,
+    "Name": "ШС 110, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 110,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP368": {
+    "Id": 368,
+    "Name": "ШС 96, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 96,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP268": {
+    "Id": 268,
+    "Name": "ШС 3, Прибор 2",
+    "DeviceId": 4,
+    "ItemType": "LOOP",
+    "Address": 3,
+    "AdditionalType": 72,
+    "RemoteControlCategoryId": 401,
+    "ContactId": 0
+  },
+  "LOOP320": {
+    "Id": 320,
+    "Name": "ШС 48, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 48,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP220": {
+    "Id": 220,
+    "Name": "ШС 210, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 210,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP19": {
+    "Id": 19,
+    "Name": "ШС 9, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 9,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP21": {
+    "Id": 21,
+    "Name": "ШС 11, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 11,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP165": {
+    "Id": 165,
+    "Name": "ШС 155, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 155,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP119": {
+    "Id": 119,
+    "Name": "ШС 109, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 109,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP84": {
+    "Id": 84,
+    "Name": "ШС 74, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 74,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP319": {
+    "Id": 319,
+    "Name": "ШС 47, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 47,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP365": {
+    "Id": 365,
+    "Name": "ШС 93, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 93,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP265": {
+    "Id": 265,
+    "Name": "ШС 255, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 255,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP219": {
+    "Id": 219,
+    "Name": "ШС 209, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 209,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP112": {
+    "Id": 112,
+    "Name": "ШС 102, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 102,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP54": {
+    "Id": 54,
+    "Name": "ШС 44, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 44,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP312": {
+    "Id": 312,
+    "Name": "ШС 40, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 40,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP212": {
+    "Id": 212,
+    "Name": "ШС 202, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 202,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP157": {
+    "Id": 157,
+    "Name": "ШС 147, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 147,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP357": {
+    "Id": 357,
+    "Name": "ШС 85, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 85,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP257": {
+    "Id": 257,
+    "Name": "ШС 247, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 247,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP93": {
+    "Id": 93,
+    "Name": "ШС 83, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 83,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP198": {
+    "Id": 198,
+    "Name": "ШС 188, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 188,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP150": {
+    "Id": 150,
+    "Name": "ШС 140, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 140,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP104": {
+    "Id": 104,
+    "Name": "ШС 94, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 94,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP398": {
+    "Id": 398,
+    "Name": "ШС 126, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 126,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP304": {
+    "Id": 304,
+    "Name": "ШС 32, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 32,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP350": {
+    "Id": 350,
+    "Name": "ШС 78, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 78,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP298": {
+    "Id": 298,
+    "Name": "ШС 26, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 26,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP250": {
+    "Id": 250,
+    "Name": "ШС 240, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 240,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP204": {
+    "Id": 204,
+    "Name": "ШС 194, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 194,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP23": {
+    "Id": 23,
+    "Name": "ШС 13, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 13,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP195": {
+    "Id": 195,
+    "Name": "ШС 185, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 185,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP149": {
+    "Id": 149,
+    "Name": "ШС 139, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 139,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP101": {
+    "Id": 101,
+    "Name": "ШС 91, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 91,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP395": {
+    "Id": 395,
+    "Name": "ШС 123, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 123,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP349": {
+    "Id": 349,
+    "Name": "ШС 77, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 77,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP249": {
+    "Id": 249,
+    "Name": "ШС 239, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 239,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP86": {
+    "Id": 86,
+    "Name": "ШС 76, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 76,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP295": {
+    "Id": 295,
+    "Name": "ШС 23, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 23,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP301": {
+    "Id": 301,
+    "Name": "ШС 29, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 29,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP201": {
+    "Id": 201,
+    "Name": "ШС 191, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 191,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "RELAY9": {
+    "Id": 9,
+    "Name": "Неисправность",
+    "DeviceId": 3,
+    "ItemType": "RELAY",
+    "Address": 7,
+    "AdditionalType": 0,
+    "RemoteControlCategoryId": 6,
+    "ContactId": 0
+  },
+  "LOOP142": {
+    "Id": 142,
+    "Name": "ШС 132, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 132,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP342": {
+    "Id": 342,
+    "Name": "ШС 70, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 70,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP242": {
+    "Id": 242,
+    "Name": "ШС 232, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 232,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP56": {
+    "Id": 56,
+    "Name": "ШС 46, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 46,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP187": {
+    "Id": 187,
+    "Name": "ШС 177, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 177,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP387": {
+    "Id": 387,
+    "Name": "ШС 115, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 115,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP287": {
+    "Id": 287,
+    "Name": "ШС 15, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 15,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP95": {
+    "Id": 95,
+    "Name": "ШС 85, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 85,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP180": {
+    "Id": 180,
+    "Name": "ШС 170, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 170,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP134": {
+    "Id": 134,
+    "Name": "ШС 124, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 124,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP334": {
+    "Id": 334,
+    "Name": "ШС 62, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 62,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP380": {
+    "Id": 380,
+    "Name": "ШС 108, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 108,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP234": {
+    "Id": 234,
+    "Name": "ШС 224, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 224,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP280": {
+    "Id": 280,
+    "Name": "ШС 8, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 8,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "RELAY3": {
+    "Id": 3,
+    "Name": "Реле 1, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "RELAY",
+    "Address": 1,
+    "AdditionalType": 0,
+    "RemoteControlCategoryId": 6,
+    "ContactId": 0
+  },
+  "LOOP25": {
+    "Id": 25,
+    "Name": "ШС 15, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 15,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP179": {
+    "Id": 179,
+    "Name": "ШС 169, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 169,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP131": {
+    "Id": 131,
+    "Name": "ШС 121, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 121,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP379": {
+    "Id": 379,
+    "Name": "ШС 107, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 107,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP279": {
+    "Id": 279,
+    "Name": "ШС 7, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 7,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP331": {
+    "Id": 331,
+    "Name": "ШС 59, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 59,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP231": {
+    "Id": 231,
+    "Name": "ШС 221, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 221,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP88": {
+    "Id": 88,
+    "Name": "ШС 78, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 78,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP106": {
+    "Id": 106,
+    "Name": "ШС 96, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 96,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP306": {
+    "Id": 306,
+    "Name": "ШС 34, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 34,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP206": {
+    "Id": 206,
+    "Name": "ШС 196, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 196,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP172": {
+    "Id": 172,
+    "Name": "ШС 162, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 162,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "READER1": {
+    "Id": 1,
+    "Name": "Считыватель Сириус Считыватель 1, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "READER",
+    "Address": 1,
+    "AdditionalType": 0,
+    "RemoteControlCategoryId": 5,
+    "ContactId": 0
+  },
+  "LOOP372": {
+    "Id": 372,
+    "Name": "ШС 100, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 100,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP272": {
+    "Id": 272,
+    "Name": "ШС 7, Прибор 2",
+    "DeviceId": 4,
+    "ItemType": "LOOP",
+    "Address": 7,
+    "AdditionalType": 75,
+    "RemoteControlCategoryId": 401,
+    "ContactId": 0
+  },
+  "LOOP58": {
+    "Id": 58,
+    "Name": "ШС 48, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 48,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP60": {
+    "Id": 60,
+    "Name": "ШС 50, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 50,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP123": {
+    "Id": 123,
+    "Name": "ШС 113, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 113,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP323": {
+    "Id": 323,
+    "Name": "ШС 51, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 51,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP223": {
+    "Id": 223,
+    "Name": "ШС 213, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 213,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP30": {
+    "Id": 30,
+    "Name": "ШС 20, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 20,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP164": {
+    "Id": 164,
+    "Name": "ШС 154, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 154,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP97": {
+    "Id": 97,
+    "Name": "ШС 87, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 87,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP364": {
+    "Id": 364,
+    "Name": "ШС 92, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 92,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP264": {
+    "Id": 264,
+    "Name": "ШС 254, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 254,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP161": {
+    "Id": 161,
+    "Name": "ШС 151, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 151,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP27": {
+    "Id": 27,
+    "Name": "ШС 17, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 17,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP361": {
+    "Id": 361,
+    "Name": "ШС 89, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 89,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP261": {
+    "Id": 261,
+    "Name": "ШС 251, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 251,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP136": {
+    "Id": 136,
+    "Name": "ШС 126, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 126,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP336": {
+    "Id": 336,
+    "Name": "ШС 64, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 64,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP236": {
+    "Id": 236,
+    "Name": "ШС 226, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 226,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP62": {
+    "Id": 62,
+    "Name": "ШС 52, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 52,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP153": {
+    "Id": 153,
+    "Name": "ШС 143, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 143,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP353": {
+    "Id": 353,
+    "Name": "ШС 81, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 81,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP253": {
+    "Id": 253,
+    "Name": "ШС 243, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 243,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP128": {
+    "Id": 128,
+    "Name": "ШС 118, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 118,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP32": {
+    "Id": 32,
+    "Name": "ШС 22, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 22,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP328": {
+    "Id": 328,
+    "Name": "ШС 56, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 56,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP228": {
+    "Id": 228,
+    "Name": "ШС 218, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 218,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP194": {
+    "Id": 194,
+    "Name": "ШС 184, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 184,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP99": {
+    "Id": 99,
+    "Name": "ШС 89, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 89,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP394": {
+    "Id": 394,
+    "Name": "ШС 122, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 122,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP294": {
+    "Id": 294,
+    "Name": "ШС 22, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 22,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP125": {
+    "Id": 125,
+    "Name": "ШС 115, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 115,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP325": {
+    "Id": 325,
+    "Name": "ШС 53, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 53,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP225": {
+    "Id": 225,
+    "Name": "ШС 215, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 215,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "RELAY7": {
+    "Id": 7,
+    "Name": "Пожар",
+    "DeviceId": 3,
+    "ItemType": "RELAY",
+    "Address": 5,
+    "AdditionalType": 0,
+    "RemoteControlCategoryId": 6,
+    "ContactId": 0
+  },
+  "LOOP191": {
+    "Id": 191,
+    "Name": "ШС 181, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 181,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP29": {
+    "Id": 29,
+    "Name": "ШС 19, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 19,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP391": {
+    "Id": 391,
+    "Name": "ШС 119, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 119,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP291": {
+    "Id": 291,
+    "Name": "ШС 19, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 19,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP71": {
+    "Id": 71,
+    "Name": "ШС 61, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 61,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP166": {
+    "Id": 166,
+    "Name": "ШС 156, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 156,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP366": {
+    "Id": 366,
+    "Name": "ШС 94, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 94,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP266": {
+    "Id": 266,
+    "Name": "ШС 1, Прибор 2",
+    "DeviceId": 4,
+    "ItemType": "LOOP",
+    "Address": 1,
+    "AdditionalType": 71,
+    "RemoteControlCategoryId": 401,
+    "ContactId": 0
+  },
+  "LOOP16": {
+    "Id": 16,
+    "Name": "ШС 6, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 6,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP117": {
+    "Id": 117,
+    "Name": "ШС 107, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 107,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP64": {
+    "Id": 64,
+    "Name": "ШС 54, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 54,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP317": {
+    "Id": 317,
+    "Name": "ШС 45, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 45,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP217": {
+    "Id": 217,
+    "Name": "ШС 207, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 207,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP183": {
+    "Id": 183,
+    "Name": "ШС 173, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 173,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP383": {
+    "Id": 383,
+    "Name": "ШС 111, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 111,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP283": {
+    "Id": 283,
+    "Name": "ШС 11, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 11,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP158": {
+    "Id": 158,
+    "Name": "ШС 148, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 148,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP110": {
+    "Id": 110,
+    "Name": "ШС 100, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 100,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP34": {
+    "Id": 34,
+    "Name": "ШС 24, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 24,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP358": {
+    "Id": 358,
+    "Name": "ШС 86, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 86,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP258": {
+    "Id": 258,
+    "Name": "ШС 248, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 248,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP310": {
+    "Id": 310,
+    "Name": "ШС 38, Прибор 3",
+    "DeviceId": 5,
+    "ItemType": "LOOP",
+    "Address": 38,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  },
+  "LOOP210": {
+    "Id": 210,
+    "Name": "ШС 200, Прибор 1",
+    "DeviceId": 3,
+    "ItemType": "LOOP",
+    "Address": 200,
+    "AdditionalType": 2,
+    "RemoteControlCategoryId": 2,
+    "ContactId": 0
+  }
+}
